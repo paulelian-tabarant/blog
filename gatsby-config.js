@@ -25,5 +25,21 @@ module.exports = {
       },
       __key: "pages",
     },
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "pensees",
+        path: "./src/posts/pensees",
+      },
+      __key: "posts/pensees",
+    },
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "tech",
+        path: "./src/posts/tech",
+      },
+      __key: "posts/tech",
+    },
   ],
 };
