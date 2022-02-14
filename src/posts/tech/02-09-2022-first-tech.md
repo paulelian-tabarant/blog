@@ -25,4 +25,4 @@ function main() {
 
 [Lien vers Google](https://www.google.fr/)
 
-![Logo Gatsby](../images/icon.png)
+![Logo Gatsby](../../images/icon.png)
