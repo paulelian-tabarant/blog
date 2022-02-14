@@ -1,7 +1,7 @@
 import * as React from 'react'
 import { Link } from '@reach/router'
 
-export const Heading = () => {
+export const Header = () => {
   return (
     <nav>
       <ul>
@@ -12,7 +12,7 @@ export const Heading = () => {
           <Link to="/tech">Tech</Link>
         </li>
         <li>
-          <Link to="/pensees">Pensées</Link>
+          <Link to="/thoughts">Pensées</Link>
         </li>
       </ul>
     </nav>

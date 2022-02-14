@@ -1,14 +1,13 @@
-import React from 'react'
 import { graphql } from 'gatsby'
+import React from 'react'
 
-export const PenséesPost = ({
-  data,
-}) => {
-  const { markdownRemark } = data // data.markdownRemark holds your post data
+const Post = ({ data }) => {
+  console.log(data)
+  const { markdownRemark } = data
   const { frontmatter, html } = markdownRemark
   return (
     <div>
-      <div className="blog-post">
+      <div>
         <h1>{frontmatter.title}</h1>
         <h2>{frontmatter.date}</h2>
         <div dangerouslySetInnerHTML={{ __html: html }} />
@@ -16,17 +15,18 @@ export const PenséesPost = ({
     </div>
   )
 }
+
 export const pageQuery = graphql`
-  query ($id: String!) {
-    markdownRemark(id: { eq: $id }) {
+  query BlogPostByPath($path: String!) {
+    markdownRemark(frontmatter: { path: { eq: $path } }) {
       html
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
-        slug
+        path
         title
       }
     }
   }
 `
 
-export default PenséesPost
+export default Post

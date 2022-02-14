@@ -1,17 +1,17 @@
-import { Heading } from '../components/header'
-import { Router } from '@reach/router'
-import { Accueil } from '../components/accueil'
-import { TechPosts } from '../components/techPosts'
-import { PenséesPosts } from '../components/penseesPosts'
 import * as React from 'react'
+import { Router } from '@reach/router'
+import { TechPosts } from '../components/techPosts'
+import { ThoughtsPosts } from '../components/ThoughtsPosts'
+import { Home } from '../components/Home'
+import { Header } from '../components/Header'
 
 const App = () => (
   <>
-    <Heading />
+    <Header />
     <Router>
-      <Accueil path="/" />
+      <Home path="/" />
       <TechPosts path="/tech" />
-      <PenséesPosts path="/pensees" />
+      <ThoughtsPosts path="/thoughts" />
     </Router>
   </>
 )

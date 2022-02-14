@@ -1,19 +1,14 @@
 module.exports = {
   siteMetadata: {
     title: `Paul-Elian's blog`,
-    siteUrl: `https://www.yourdomain.tld`,
+    siteUrl: `https://paul-elian.dev/`,
   },
   plugins: [
-    "gatsby-plugin-image",
-    "gatsby-plugin-react-helmet",
-    "gatsby-transformer-remark",
-    "gatsby-plugin-sharp",
-    "gatsby-transformer-sharp",
     {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "images",
-        path: "./src/images/",
+        path: `./src/images/`,
       },
       __key: "images",
     },
@@ -21,25 +16,27 @@ module.exports = {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "pages",
-        path: "./src/pages/",
+        path: `./src/pages/`,
       },
       __key: "pages",
     },
+    "gatsby-transformer-remark",
+    `gatsby-plugin-sharp`,
     {
-      resolve: "gatsby-source-filesystem",
+      resolve: `gatsby-transformer-remark`,
       options: {
-        name: "pensees",
-        path: "./src/posts/pensees",
+        plugins: [
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              // It's important to specify the maxWidth (in pixels) of
+              // the content container as this plugin uses this as the
+              // base for generating different widths of each image.
+              maxWidth: 590,
+            },
+          },
+        ],
       },
-      __key: "posts/pensees",
-    },
-    {
-      resolve: "gatsby-source-filesystem",
-      options: {
-        name: "tech",
-        path: "./src/posts/tech",
-      },
-      __key: "posts/tech",
     },
   ],
 };
