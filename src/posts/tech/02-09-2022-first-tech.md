@@ -1,7 +1,7 @@
 ---
 path: "/tech/first-tech"
 date: 2017-07-12T17:12:33.962Z
-title: "My first blog post"
+title: "My first tech blog post"
 ---
 
 # Hello, tech! 

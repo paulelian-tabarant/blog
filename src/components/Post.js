@@ -2,7 +2,6 @@ import { graphql } from 'gatsby'
 import React from 'react'
 
 const Post = ({ data }) => {
-  console.log(data)
   const { markdownRemark } = data
   const { frontmatter, html } = markdownRemark
   return (

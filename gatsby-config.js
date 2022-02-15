@@ -20,7 +20,6 @@ module.exports = {
       },
       __key: "posts",
     },
-    "gatsby-transformer-remark",
     `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-transformer-remark`,
