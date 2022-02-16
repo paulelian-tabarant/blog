@@ -6,6 +6,7 @@ const Post = ({ data }) => {
   const { frontmatter, html } = markdownRemark
   return (
     <div>
+      <nav><a href="/">Back home</a></nav>
       <div>
         <h1>{frontmatter.title}</h1>
         <h2>{frontmatter.date}</h2>
