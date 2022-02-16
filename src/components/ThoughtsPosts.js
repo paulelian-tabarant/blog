@@ -11,7 +11,7 @@ export const ThoughtsPosts = ({ posts }) => {
       <h1>Thoughts</h1>
       <ul>
         {thoughtsPosts.map(({ node: post }) => (
-          <li>{post.frontmatter.title}</li>
+          <li><a href={post.frontmatter.path}>{post.frontmatter.title}</a></li>
         ))}
       </ul>
     </>

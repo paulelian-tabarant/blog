@@ -1,7 +1,6 @@
 import * as React from 'react'
 import { Router } from '@reach/router'
-import TechPosts from '../components/TechPosts'
-import { ThoughtsPosts } from '../components/ThoughtsPosts'
+import PostsListing from '../components/PostsListing'
 import { Home } from '../components/Home'
 import { Header } from '../components/Header'
 import { graphql } from 'gatsby'
@@ -15,8 +14,8 @@ const App = ({ data }) => {
       <Header />
       <Router>
         <Home path="/" />
-        <TechPosts path="/tech" posts={posts}/>
-        <ThoughtsPosts path="/thoughts" posts={posts}/>
+        <PostsListing path="/tech" title="Tech posts" posts={posts} />
+        <PostsListing path="/thoughts" title="Thoughts posts" posts={posts} />
       </Router>
     </>
   )
