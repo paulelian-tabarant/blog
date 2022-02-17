@@ -5,15 +5,21 @@ const PostsListing = ({ title, path, posts }) => {
     post.frontmatter.path.startsWith(path)
   )
 
+  const listPosts = (posts) => posts.map(({ node: post }) => {
+    const { path: postPath, title, date } = post.frontmatter
+    console.log(postPath, title, date)
+    return (
+      <li key={postPath}>
+        {date} &rsaquo; <a href={postPath}>{title}</a>
+      </li>
+    )
+  })
+
   return (
     <>
       <h1>{title}</h1>
       <ul>
-        {filteredPosts.map(({ node: post }) => (
-          <li>
-            <a href={post.frontmatter.path}>{post.frontmatter.title}</a>
-          </li>
-        ))}
+        {listPosts(filteredPosts)}
       </ul>
     </>
   )
