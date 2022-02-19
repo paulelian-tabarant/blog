@@ -1,4 +1,5 @@
 import * as React from 'react'
+import * as style from './posts_listing.module.css'
 
 const PostsListing = ({ title, path, posts }) => {
   const filteredPosts = posts.filter(({ node: post }) =>
@@ -7,7 +8,6 @@ const PostsListing = ({ title, path, posts }) => {
 
   const listPosts = (posts) => posts.map(({ node: post }) => {
     const { path: postPath, title, date } = post.frontmatter
-    console.log(postPath, title, date)
     return (
       <li key={postPath}>
         {date} &rsaquo; <a href={postPath}>{title}</a>
@@ -15,10 +15,12 @@ const PostsListing = ({ title, path, posts }) => {
     )
   })
 
+  const { posts_listing__ul } = style
+
   return (
     <>
       <h1>{title}</h1>
-      <ul>
+      <ul className={posts_listing__ul}>
         {listPosts(filteredPosts)}
       </ul>
     </>
