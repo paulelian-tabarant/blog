@@ -1,0 +1,6 @@
+- [ ] Setup Prettier correctement
+- [ ] Unifier css communs (marges, tailles de police, paddings)
+- [ ] Tester plugin catch-links
+- [ ] CSS-iser l'appli
+- [ ] Téléverser markdown et images depuis Silvrback
+- [ ] Composant principal : accueil avec portfolio

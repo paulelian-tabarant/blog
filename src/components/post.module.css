@@ -1,0 +1,35 @@
+.post {
+    display: flex;
+    justify-content: center;
+}
+
+.post__back_link {
+  color: inherit;
+  font-size: x-large;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.post__date {
+  font-size: x-large;
+  font-weight: 300;
+}
+
+.post__body {
+    padding: 2em 0;
+    width: 50%;
+}
+
+.post__content {
+    font-weight: 300;
+    font-size: x-large;
+    margin: 2em 0;
+}
+
+.post__nav {
+    float: right;
+}
+
+.post img {
+    width: 100%;
+}

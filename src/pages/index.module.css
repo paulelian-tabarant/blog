@@ -1,0 +1,14 @@
+@import url('../fonts/Inter\ Web/inter.css');
+
+body {
+  font-family: 'Inter';
+}
+
+.index__main {
+  display: flex;
+  justify-content: center;
+}
+
+.index__content {
+  width: 50%;
+}
