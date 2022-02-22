@@ -13,9 +13,9 @@ const Post = ({ data }) => {
           <nav className={post__nav}>
             <a href="/">Back home</a>
           </nav>
+          <aside>{frontmatter.date}</aside>
           <div className={post__content}>
             <h1>{frontmatter.title}</h1>
-            <h2>{frontmatter.date}</h2>
             <div dangerouslySetInnerHTML={{ __html: html }} />
           </div>
         </main>
