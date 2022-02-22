@@ -11,6 +11,7 @@ const PostsListing = ({ title, path, posts }) => {
     return (
       <li key={postPath}>
         {date} &rsaquo; <a href={postPath}>{title}</a>
+        <p>{post.excerpt}</p>
       </li>
     )
   })

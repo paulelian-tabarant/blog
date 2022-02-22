@@ -1,0 +1,22 @@
+.post {
+    display: flex;
+    justify-content: center;
+}
+
+.post__body {
+    padding: 2em 0;
+    width: 50%;
+}
+
+.post__content {
+    font-size: larger;
+    margin: 2em 0;
+}
+
+.post__nav {
+    float: right;
+}
+
+.post img {
+    width: 100%;
+}
