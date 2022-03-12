@@ -1,0 +1,9 @@
+.posts_listing__ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.posts_listing__li {
+  font-size: x-large;
+  font-weight: 300;
+}

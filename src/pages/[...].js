@@ -18,8 +18,8 @@ const App = ({ data }) => {
       <div className={index__content}>
       <Router>
         <Home path="/" />
-        <PostsListing path="/tech" title="Tech posts" posts={posts} />
-        <PostsListing path="/thoughts" title="Thoughts posts" posts={posts} />
+        <PostsListing path="/tech" title="Tech" posts={posts} />
+        <PostsListing path="/thoughts" title="Pensées" posts={posts} />
       </Router>
       </div>
       </main>

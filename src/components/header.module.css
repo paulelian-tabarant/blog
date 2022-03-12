@@ -1,0 +1,16 @@
+.header__ul {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.header__li {
+  list-style: none;
+}
+
+.header__link {
+  color: inherit;
+  font-size: x-large;
+  font-weight: 300;
+  text-decoration: none;
+}

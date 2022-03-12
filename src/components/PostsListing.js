@@ -6,17 +6,17 @@ const PostsListing = ({ title, path, posts }) => {
     post.frontmatter.path.startsWith(path)
   )
 
+  const { posts_listing__ul, posts_listing__li } = style
+
   const listPosts = (posts) => posts.map(({ node: post }) => {
     const { path: postPath, title, date } = post.frontmatter
     return (
-      <li key={postPath}>
+      <li className={posts_listing__li} key={postPath}>
         {date} &rsaquo; <a href={postPath}>{title}</a>
         <p>{post.excerpt}</p>
       </li>
     )
   })
-
-  const { posts_listing__ul } = style
 
   return (
     <>

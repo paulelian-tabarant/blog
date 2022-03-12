@@ -1,5 +1,5 @@
+- [ ] Setup Prettier correctement
 - [ ] Unifier css communs (marges, tailles de police, paddings)
-- [ ] Raffiner listing avec plus d'infos (date, excerpt...)
 - [ ] Tester plugin catch-links
 - [ ] CSS-iser l'appli
 - [ ] Téléverser markdown et images depuis Silvrback

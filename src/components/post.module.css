@@ -1,9 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
-
 .post {
     display: flex;
     justify-content: center;
-    font-family: 'Noto Sans', sans-serif;
+}
+
+.post__back_link {
+  color: inherit;
+  font-size: x-large;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.post__date {
+  font-size: x-large;
+  font-weight: 300;
 }
 
 .post__body {
@@ -12,6 +21,7 @@
 }
 
 .post__content {
+    font-weight: 300;
     font-size: x-large;
     margin: 2em 0;
 }
