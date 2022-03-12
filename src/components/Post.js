@@ -18,7 +18,9 @@ const Post = ({ data }) => {
       <div className={post}>
         <main className={post__body}>
           <nav className={post__nav}>
-            <a className={post__back_link} href="/">Retour</a>
+            <a className={post__back_link} href="/">
+              Retour
+            </a>
           </nav>
           <aside className={post__date}>{frontmatter.date}</aside>
           <div className={post__content}>

@@ -1,4 +1,5 @@
-- [ ] Setup Prettier correctement
+- [x] Setup Prettier correctement
+- [ ] Checker process de génération de pages statiques (certaines se font mal, info présente 2 fois)
 - [ ] Unifier css communs (marges, tailles de police, paddings)
 - [ ] Tester plugin catch-links
 - [ ] CSS-iser l'appli

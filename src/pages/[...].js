@@ -1,10 +1,11 @@
 import * as React from 'react'
-import { Router } from '@reach/router'
-import PostsListing from '../components/PostsListing'
-import { Home } from '../components/Home'
-import { Header } from '../components/Header'
-import { graphql } from 'gatsby'
 import * as style from './index.module.css'
+
+import { Header } from '../components/Header'
+import { Home } from '../components/Home'
+import PostsListing from '../components/PostsListing'
+import { Router } from '@reach/router'
+import { graphql } from 'gatsby'
 
 const App = ({ data }) => {
   const { allMarkdownRemark } = data
@@ -15,13 +16,13 @@ const App = ({ data }) => {
     <>
       <Header />
       <main className={index__main}>
-      <div className={index__content}>
-      <Router>
-        <Home path="/" />
-        <PostsListing path="/tech" title="Tech" posts={posts} />
-        <PostsListing path="/thoughts" title="Pensées" posts={posts} />
-      </Router>
-      </div>
+        <div className={index__content}>
+          <Router>
+            <Home path="/" />
+            <PostsListing path="/tech" title="Tech" posts={posts} />
+            <PostsListing path="/thoughts" title="Pensées" posts={posts} />
+          </Router>
+        </div>
       </main>
     </>
   )

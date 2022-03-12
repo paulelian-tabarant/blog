@@ -5,20 +5,20 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: "gatsby-source-filesystem",
+      resolve: 'gatsby-source-filesystem',
       options: {
-        name: "images",
+        name: 'images',
         path: `./src/images/`,
       },
-      __key: "images",
+      __key: 'images',
     },
     {
-      resolve: "gatsby-source-filesystem",
+      resolve: 'gatsby-source-filesystem',
       options: {
-        name: "posts",
+        name: 'posts',
         path: `./src/posts/`,
       },
-      __key: "posts",
+      __key: 'posts',
     },
     `gatsby-plugin-sharp`,
     {
@@ -38,4 +38,4 @@ module.exports = {
       },
     },
   ],
-};
+}
