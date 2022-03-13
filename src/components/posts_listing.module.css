@@ -1,9 +1,30 @@
-.posts_listing__ul {
+.posts_listing {
   list-style: none;
   padding-left: 0;
 }
 
-.posts_listing__li {
-  font-size: x-large;
+.posts_listing__item__header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 2rem;
+}
+
+.posts_listing__item__header__title {
+  font-size: large;
+  margin: 0;
+}
+
+.posts_listing__item__header__date {
+  display: inline-block;
+  min-width: fit-content;
+  font-size: medium;
+  font-weight: 200;
+}
+
+.posts_listing__item__excerpt {
+  margin-top: 0.5em;
+  margin-bottom: 1.5em;
+  line-height: 1.2rem;
   font-weight: 300;
 }

@@ -16,18 +16,18 @@ const Post = ({ data }) => {
   return (
     <>
       <div className={post}>
-        <main className={post__body}>
+        <div className={post__body}>
           <nav className={post__nav}>
             <a className={post__back_link} href="/">
-              Retour
+              &larr; Retour
             </a>
           </nav>
           <aside className={post__date}>{frontmatter.date}</aside>
-          <div className={post__content}>
+          <main className={post__content}>
             <h1>{frontmatter.title}</h1>
             <div dangerouslySetInnerHTML={{ __html: html }} />
-          </div>
-        </main>
+          </main>
+        </div>
       </div>
     </>
   )
