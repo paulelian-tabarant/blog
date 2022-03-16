@@ -14,7 +14,7 @@ a {
   color: #e67f00ad;
 }
 
-p {
+p, ul, li {
   font-weight: 300;
 }
 

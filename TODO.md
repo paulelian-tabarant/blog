@@ -1,8 +1,8 @@
 - [x] Setup Prettier correctement
-- [ ] Unifier css communs (marges, tailles de police, paddings)
-- [ ] Formatter les dates en français
+- [x] Unifier css communs (marges, tailles de police, paddings)
+- [x] Formatter les dates en français
+- [ ] Ajouter un petit texte d'intro à chaque article (et pourquoi pas une image) au lieu d'un excerpt (pas ouf)
 - [ ] Checker process de génération de pages statiques (certaines se font mal, info présente 2 fois)
 - [ ] Tester plugin catch-links
-- [ ] CSS-iser l'appli
-- [ ] Téléverser markdown et images depuis Silvrback
+- [-] Téléverser markdown et images depuis Silvrback
 - [ ] Composant principal : accueil avec portfolio
