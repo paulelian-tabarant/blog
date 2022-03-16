@@ -12,6 +12,10 @@
   font-weight: 200;
 }
 
+.post__nav {
+  float: right;
+}
+
 .post__body {
   padding: 2em 0;
   width: 50%;
@@ -25,10 +29,18 @@
   line-height: 1.8rem;
 }
 
-.post__nav {
-  float: right;
+.post__content img {
+  width: 100%;
 }
 
-.post img {
-  width: 100%;
+.post__content blockquote {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.post__content blockquote p::before {
+  content: "« ";
+}
+
+.post__content blockquote p::after{
+  content: " »";
 }
