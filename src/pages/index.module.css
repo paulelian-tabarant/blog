@@ -4,9 +4,18 @@ body {
   font-family: 'Inter';
 }
 
+h1,
+h2 {
+  font-weight: 500;
+}
+
 a {
   text-decoration: none;
   color: #e67f00ad;
+}
+
+p {
+  font-weight: 300;
 }
 
 .index__main {

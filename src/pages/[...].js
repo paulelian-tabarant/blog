@@ -37,7 +37,7 @@ export const listingQuery = graphql`
           frontmatter {
             title
             path
-            date(formatString: "MMMM DD, YYYY")
+            date(formatString: "DD MMMM YYYY", locale: "fr")
           }
         }
       }

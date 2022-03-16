@@ -18,12 +18,10 @@
 }
 
 .post__content {
-  font-weight: 300;
   margin: 2em 0;
 }
 
 .post__content p {
-  font-size: large;
   line-height: 1.8rem;
 }
 

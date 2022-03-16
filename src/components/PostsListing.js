@@ -8,7 +8,6 @@ const PostsListing = ({ title, path, posts }) => {
 
   const {
     posts_listing,
-    posts_listing__item,
     posts_listing__item__header,
     posts_listing__item__header__title,
     posts_listing__item__header__date,
@@ -19,7 +18,7 @@ const PostsListing = ({ title, path, posts }) => {
     posts.map(({ node: post }) => {
       const { path: postPath, title, date } = post.frontmatter
       return (
-        <li className={posts_listing__item} key={postPath}>
+        <li key={postPath}>
           <header className={posts_listing__item__header}>
             <h2 className={posts_listing__item__header__title}>
               <a href={postPath}>{title}</a>
@@ -31,10 +30,16 @@ const PostsListing = ({ title, path, posts }) => {
       )
     })
 
+  const postElements = listPosts(filteredPosts)
+
   return (
     <>
       <h1>{title}</h1>
-      <ul className={posts_listing}>{listPosts(filteredPosts)}</ul>
+      {postElements.length ? (
+        <ul className={posts_listing}>{postElements}</ul>
+      ) : (
+        <p>À venir...</p>
+      )}
     </>
   )
 }
