@@ -1,5 +1,5 @@
 ---
-path: "/thoughts/le-trop-plein-d-informations"
+path: "/le-trop-plein-d-informations"
 date: 2020-12-21
 title: "Le trop-plein d'informations"
 ---

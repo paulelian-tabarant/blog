@@ -1,5 +1,5 @@
 ---
-path: '/thoughts/la-fin-justifie-les-moyens'
+path: '/la-fin-justifie-les-moyens'
 date: 2020-08-04
 title: 'La fin justifie les moyens'
 ---

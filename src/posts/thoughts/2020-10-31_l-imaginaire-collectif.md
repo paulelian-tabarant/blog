@@ -1,5 +1,5 @@
 ---
-path: "/thoughts/l-imaginaire-collectif"
+path: "/l-imaginaire-collectif"
 date: 2020-10-31
 title: "L'imaginaire collectif"
 ---

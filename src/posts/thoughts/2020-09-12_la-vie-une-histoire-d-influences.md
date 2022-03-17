@@ -1,5 +1,5 @@
 ---
-path: "/thoughts/la-vie-une-histoire-d-influences"
+path: "/la-vie-une-histoire-d-influences"
 date: 2020-09-15
 title: "La vie, une histoire d'influences ?"
 ---
