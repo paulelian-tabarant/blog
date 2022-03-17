@@ -1,5 +1,5 @@
 ---
-path: "/thoughts/petit-guide-de-domptage-de-la-difficulte"
+path: "/petit-guide-de-domptage-de-la-difficulte"
 date: 2021-07-30
 title: "Petit guide de domptage de la difficulté"
 ---

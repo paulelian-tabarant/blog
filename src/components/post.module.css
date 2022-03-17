@@ -4,15 +4,16 @@
 }
 
 .post__back_link {
-  color: inherit;
-  font-size: x-large;
+  font-size: large;
   font-weight: 500;
-  text-decoration: none;
 }
 
 .post__date {
-  font-size: x-large;
-  font-weight: 300;
+  font-weight: 200;
+}
+
+.post__nav {
+  float: right;
 }
 
 .post__body {
@@ -21,15 +22,26 @@
 }
 
 .post__content {
-  font-weight: 300;
-  font-size: x-large;
   margin: 2em 0;
+  line-height: 1.8rem;
 }
 
-.post__nav {
-  float: right;
-}
-
-.post img {
+.post__content img {
   width: 100%;
+}
+
+.post__content strong {
+  font-weight: 700;
+}
+
+.post__content blockquote {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.post__content blockquote p::before {
+  content: "« ";
+}
+
+.post__content blockquote p::after{
+  content: " »";
 }

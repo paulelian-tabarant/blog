@@ -14,13 +14,14 @@ const App = ({ data }) => {
 
   return (
     <>
-      <Header />
+      {/* <Header /> */}
       <main className={index__main}>
         <div className={index__content}>
           <Router>
-            <Home path="/" />
-            <PostsListing path="/tech" title="Tech" posts={posts} />
-            <PostsListing path="/thoughts" title="Pensées" posts={posts} />
+            {/* <Home path="/" /> */}
+            {/* <PostsListing path="/tech" title="Tech" posts={posts} /> */}
+            {/* <PostsListing path="/thoughts" title="Pensées" posts={posts} /> */}
+            <PostsListing path="/" title="Pensées" posts={posts} />
           </Router>
         </div>
       </main>
@@ -37,7 +38,7 @@ export const listingQuery = graphql`
           frontmatter {
             title
             path
-            date(formatString: "MMMM DD, YYYY")
+            date(formatString: "DD MMMM YYYY", locale: "fr")
           }
         }
       }
