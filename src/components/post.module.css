@@ -30,6 +30,10 @@
   width: 100%;
 }
 
+.post__content strong {
+  font-weight: 700;
+}
+
 .post__content blockquote {
   color: rgba(0, 0, 0, 0.5);
 }
