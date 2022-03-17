@@ -1,7 +1,21 @@
-@import url('../fonts/Inter\ Web/inter.css');
+@import url('/src/fonts/goudy_bookletter/stylesheet.css');
 
 body {
-  font-family: 'Inter';
+  font-family: 'Goudy Bookletter';
+}
+
+h1,
+h2 {
+  font-weight: 500;
+}
+
+a {
+  text-decoration: none;
+  color: #e67f00ad;
+}
+
+p, ul, li {
+  font-weight: 300;
 }
 
 .index__main {
