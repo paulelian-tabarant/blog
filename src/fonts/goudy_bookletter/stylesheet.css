@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Goudy Bookletter';
+  src: url('goudy_bookletter_1911-webfont.woff2') format('woff2'),
+    url('goudy_bookletter_1911-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
