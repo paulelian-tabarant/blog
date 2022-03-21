@@ -37,25 +37,5 @@ module.exports = {
         ],
       },
     },
-    {
-      resolve: '@vtex/gatsby-plugin-nginx',
-      options: {
-        transformHeaders: (headers, path) => {
-          const DEFAULT_SECURITY_HEADERS = [
-            'X-XSS-Protection: 1; mode=block',
-            'X-Content-Type-Options: nosniff',
-            'Referrer-Policy: same-origin',
-          ]
-
-          return path.includes('/preview')
-            ? [
-                ...DEFAULT_SECURITY_HEADERS,
-                'Content-Security-Policy: frame-src https://*.myvtex.com/',
-                ...headers,
-              ]
-            : ['X-Frame-Options: DENY', ...DEFAULT_SECURITY_HEADERS, ...headers]
-        },
-      },
-    },
   ],
 }
