@@ -30,6 +30,7 @@
     "sharp": "^0.30.1"
   },
   "devDependencies": {
+    "@vtex/gatsby-plugin-nginx": "^1.6.13",
     "prettier": "2.5.1"
   }
 }

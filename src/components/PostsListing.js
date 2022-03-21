@@ -35,11 +35,13 @@ const PostsListing = ({ title, path, posts }) => {
   return (
     <>
       <h1>{title}</h1>
-      {postElements.length ? (
-        <ul className={posts_listing}>{postElements}</ul>
-      ) : (
-        <p>À venir...</p>
-      )}
+      <main>
+        {postElements.length ? (
+          <ul className={posts_listing}>{postElements}</ul>
+        ) : (
+          <p>À venir...</p>
+        )}
+      </main>
     </>
   )
 }

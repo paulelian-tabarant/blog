@@ -15,7 +15,7 @@ const App = ({ data }) => {
   return (
     <>
       {/* <Header /> */}
-      <main className={index__main}>
+      <div className={index__main}>
         <div className={index__content}>
           <Router>
             {/* <Home path="/" /> */}
@@ -24,7 +24,7 @@ const App = ({ data }) => {
             <PostsListing path="/" title="Pensées" posts={posts} />
           </Router>
         </div>
-      </main>
+      </div>
     </>
   )
 }
