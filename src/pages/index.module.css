@@ -32,6 +32,6 @@ li {
 
 @media screen and (max-width: 768px) {
   .index__content {
-    width: 90%;
+    width: 95%;
   }
 }
