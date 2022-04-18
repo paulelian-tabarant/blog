@@ -1,7 +1,10 @@
 @import url('/src/fonts/goudy_bookletter/stylesheet.css');
+@import url('/src/fonts/Kit/stylesheet.css');
+@import url('/src/fonts/Butler_Webfont/stylesheet.css');
+@import url('/src/fonts/Silk\ Serif/stylesheet.css');
 
 body {
-  font-family: 'Goudy Bookletter';
+  font-family: 'Butler';
 }
 
 h1,
@@ -32,6 +35,6 @@ li {
 
 @media screen and (max-width: 768px) {
   .index__content {
-    width: 95%;
+    width: 100%;
   }
 }
