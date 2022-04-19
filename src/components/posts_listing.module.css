@@ -12,6 +12,7 @@
 
 .posts_listing__item__header__title {
   margin: 0;
+  font-size: x-large;
 }
 
 .posts_listing__item__header__date {
@@ -24,5 +25,6 @@
 .posts_listing__item__excerpt {
   margin-top: 0.5em;
   margin-bottom: 1.5em;
+  font-size: medium;
   line-height: 1.2rem;
 }

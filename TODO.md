@@ -1,5 +1,6 @@
 ## Doing
 
+- [ ] Autre police pour les titres, voire police capital-letters
 - [ ] Liens "lire plus" dans le listing des articles, + bouton "retour" ?
 - [ ] Listing des articles plus sophistiqué
 - [ ] Stocker les images ailleurs que sur Silvrback, avec pourquoi pas redimensionnement / compression

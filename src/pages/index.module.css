@@ -1,5 +1,4 @@
-@import url('/src/fonts/goudy_bookletter/stylesheet.css');
-@import url('/src/fonts/Kit/stylesheet.css');
+@import url('/src/fonts/Forum\ Regular/stylesheet.css');
 @import url('/src/fonts/Butler_Webfont/stylesheet.css');
 @import url('/src/fonts/Silk\ Serif/stylesheet.css');
 
@@ -7,9 +6,17 @@ body {
   font-family: 'Butler';
 }
 
+h1 {
+  line-height: 2.0rem;
+}
+
 h1,
 h2 {
-  font-weight: 700;
+  font-weight: 500;
+}
+
+h2 {
+  margin-bottom: 0;
 }
 
 a {

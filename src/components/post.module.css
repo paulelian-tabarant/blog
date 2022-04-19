@@ -17,7 +17,7 @@
 }
 
 .post__body {
-  padding: 2em 0;
+  margin: 1.5rem 0.5rem;
   width: 50%;
 }
 
@@ -25,9 +25,16 @@
   margin: 2em 0;
   line-height: 1.8rem;
 }
+.post__content h1 {
+  line-height: 2.2rem;
+}
 
 .post__content img {
   width: 100%;
+}
+
+.post__content ul {
+  list-style: hiragana-iroha;
 }
 
 .post__content strong {
@@ -48,7 +55,6 @@
 
 @media screen and (max-width: 768px) {
   .post__body {
-    padding: 2em 0;
-    width: 95%;
+    width: 100%;
   }
 }
