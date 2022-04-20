@@ -2,6 +2,7 @@
 path: '/sobriete-numerique-1'
 date: 2020-04-07
 title: 'Sobriété numérique (1/2)'
+featuredImage: "../images/accueil-netflix.jpg"
 ---
 
 Salut à toi, jeune compagnon de voyage; voyage qui se limite en ce moment à te lever de ton lit pour rejoindre le canapé, mais voyage quand même. Ne te dévalorise pas, merde ! Le déplacement physique n'étant pas de mise en ces jours difficiles, il est probable que tu aies envie de t'évader par d'autres moyens, quels qu'ils soient. Un livre, un film, une série... En matière de série, tu sais sûrement où aller chercher ton bonheur. Laisse-moi deviner, quelque chose qui commence par *Net* et qui termine par *flix*, par exemple ?

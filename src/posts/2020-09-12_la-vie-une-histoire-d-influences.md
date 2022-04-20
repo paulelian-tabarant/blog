@@ -2,6 +2,7 @@
 path: "/la-vie-une-histoire-d-influences"
 date: 2020-09-15
 title: "La vie, une histoire d'influences ?"
+featuredImage: "../images/chaussures.jpg"
 ---
 
 Salut à toi, jeune aventurier·ère. J'espère que tu te portes bien. Je ne me fais pas trop de souci pour ça, étant donné que tu es là en train de me lire. Que demander de plus ? Ne commence pas à faire le·la difficile.

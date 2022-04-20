@@ -2,6 +2,7 @@
 path: '/lever-le-pied'
 date: 2020-06-13
 title: 'Lever le pied'
+featuredImage: "../images/jesse-orrico_dirty-work.jpg"
 ---
 
 Bonjour à toi, l'ami·e. C'est un bel air qui souffle sur nous ces derniers jours, avec beaucoup de bonnes nouvelles comme le recul des contaminations au *virus*, la réouverture progressive des bars, des cinémas, des salles de sports et autres repères qui jalonnent notre existence. On va pouvoir tout reprendre comme avant, bonne nouvelle, non ? Autant certains aspects (essentiellement les bars) m'enchantent, d'autres nettement moins. Comme d'habitude, ce sont des ressentis qui n'engagent que moi mais permets-moi de t'en faire part.

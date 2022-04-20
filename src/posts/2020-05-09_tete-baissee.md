@@ -2,6 +2,7 @@
 path: '/tete-baissee'
 date: 2020-05-09
 title: 'Tête baissée'
+featuredImage: "../images/pere-famille_Julianne-Liebermann.jpg"
 ---
 
 Bonjour mon ami·e. À l'aube de notre libération, conditionnelle on non (l'avenir nous le dira), je m'adresse à nouveau à toi. Ici pas d'injonction, pas de directive, juste quelques impressions et anecdotes mises bout à bout. Prends ce qu'il y a de bon à prendre, et passe ton chemin sur ce qui ne t'inspire pas. Après tout, chacun sa route, chacun son... *oh, ta gueule*.

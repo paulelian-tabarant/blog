@@ -2,6 +2,7 @@
 path: '/la-fin-justifie-les-moyens'
 date: 2020-08-04
 title: 'La fin justifie les moyens'
+featuredImage: "../images/gare-du-nord.jpg"
 ---
 
 Salut l'ami·e. Comment vas-tu en ce début de mois d'août ? Plutôt plombé·e par la chaleur ou enthousiaste à la vue de ce beau soleil ? Toujours une période particulière, ce mois d'août et sa bonne humeur estivale. On s'emplit _d'espoir_ : espoir de s'évader, espoir de faire de nouvelles rencontres, espoir de découvrir de nouvelles contrées, espoir de prendre simplement du bon temps mais aussi espoir d'entamer de nouveaux projets.

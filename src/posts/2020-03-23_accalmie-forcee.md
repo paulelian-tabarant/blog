@@ -2,6 +2,7 @@
 path: '/accalmie-forcee'
 date: 2020-03-23
 title: 'Accalmie forcée'
+featuredImage: "../images/metro-lille.jpg"
 ---
 
 Période hors du temps, n'est-ce pas ? Quoi qu'on en dise, c'est une expérience inédite pour beaucoup d'entre-nous. Finalement, dans quelques années, qu'en dira-t-on ? Certain·e·s diront "On s'est royalement fait chier.". D'autres partiront dans des envolées lyriques du type "Wow, j'ai appris à planter du basilic, je me suis senti·e en harmonie avec la nature, demain je me lance dans la grande aventure du romarin". Les plus aigri·e·s d'entre-nous diront que c'est bien fait pour notre gueule de petit·e·s consommat·eur·rice·s cupides, que l'on a eu ce qu'on méritait. Bref, chacun ira de sa réaction et j'ai hâte d'en contempler le tableau. Trêve de prospectives, rebasculons dans le présent, veux-tu ?

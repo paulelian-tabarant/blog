@@ -2,6 +2,7 @@
 path: '/l-autorite-naturelle-une-belle-blague'
 date: 2020-03-01
 title: "L'autorité naturelle, une belle blague ?"
+featuredImage: "../images/l-autorite-naturelle-une-belle-blague.jpg"
 ---
 
 Bonjour à toi, camarade de quelques minutes de lecture. Aujourd'hui, je te plonge dans un royaume que l'on connaît tous, seulement dans notre imaginaire collectif, mais qui présente pourtant les mêmes pouvoirs d'oppression que son homologue réel. Ça t'intrigue, n'est-ce pas ? Loin de moi l'idée de partir dans une fiction délirante, je vais te parler d'autorité. Allez, avoue que tu es un peu déçu. Tu peux t'arrêter là si tu veux, mais ce serait dommage de ne pas embarquer dans ce monde fictif sur lequel j'ai plein de choses à te dire. Peu importe la manière de la désigner, *règles, répression, conduite*, elle ne te rend pas la vie facile. Elle est pourtant si essentielle à notre société. Mais finalement, l'autorité, qu'est-ce que c'est ?

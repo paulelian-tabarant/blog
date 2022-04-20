@@ -2,6 +2,7 @@
 path: "/le-trop-plein-d-informations"
 date: 2020-12-21
 title: "Le trop-plein d'informations"
+featuredImage: "../images/ambleteuse.jpg"
 ---
 
 Salut à toi, mon ami·e. Ça fait un bout de temps, n'est-ce pas ? Il s'en est passé des choses depuis octobre. Tout le monde s'accorde à dire que cet automne vient clôturer une année bien morose, qui nous aura plus que jamais montré à quel point le contact humain est primordial. Heureusement, nous vivons dans une époque où la connexion n'a jamais été aussi facile, nous permettant de garder contact avec nos *potos* et êtres chers par le biais d'une messagerie instantanée lambda.

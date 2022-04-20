@@ -2,6 +2,7 @@
 path: '/sobriete-numerique-2'
 date: 2020-04-11
 title: 'Sobriété numérique (2/2)'
+featuredImage: "../images/tesla_bran-van-oost.jpg"
 ---
 
 Salut à toi. Te voilà déjà au deuxième article consacré à la sobriété numérique concocté par mes soins. Décidément, le numérique en dit long sur pas mal de sujets. À vrai dire, c'est surtout moi qui suis très bavard, tu le sais bien. Alors accroche-toi, c'est reparti pour un périple au pays des transistors et des ondes électromagnétiques.

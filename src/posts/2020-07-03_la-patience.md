@@ -2,6 +2,7 @@
 path: '/la-patience'
 date: 2020-07-03
 title: 'La patience'
+featuredImage: "../images/IMG_20200517_195109.jpg"
 ---
 
 Salut l'ami·e. Comment vas-tu ? Sais-tu comment tu iras dans deux jours ? Dans deux mois, deux ans ? Ça y est, à peine tu as commencé à lire que tu es déjà assailli·e de questions. C'est incroyable, quand même. À vrai dire, personne ne sait vraiment ce que l'avenir lui réserve, peu importe le degré d'optimisme. C'est bien ce qui fait la saveur de la vie. Au fond de nous, nous cherchons tous l'accomplissement. Cet objectif à long terme contraste souvent avec nos désirs et pulsions à court terme qui, bien qu'elles nous apaisent et nous soulagent temporairement, ne nous avancent pas d'un pouce dans cette quête.

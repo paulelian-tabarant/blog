@@ -3,11 +3,19 @@
   padding-left: 0;
 }
 
+.posts_listing__item {
+  padding: 1rem;
+  margin: 1rem 0;
+  box-shadow: 0.5rem 0.5rem 1rem rgba(0, 0, 0, 0.263);
+  border-radius: 0.5rem;
+}
+
 .posts_listing__item__header {
   display: flex;
   align-items: baseline;
   justify-content: space-between;
   gap: 2rem;
+  margin-top: 1rem;
 }
 
 .posts_listing__item__header__title {
@@ -20,11 +28,15 @@
   min-width: fit-content;
   font-size: medium;
   font-weight: 200;
+  color: black;
+}
+
+.posts_listing__item__cover {
+  height: 25vh;
 }
 
 .posts_listing__item__excerpt {
-  margin-top: 0.5em;
-  margin-bottom: 1.5em;
+  margin: 0.5em 0 0 0;
   font-size: medium;
   line-height: 1.2rem;
 }

@@ -1,5 +1,6 @@
 import { graphql } from 'gatsby'
 import React from 'react'
+import { Layout } from './Layout'
 import * as style from './post.module.css'
 
 const Post = ({ data }) => {
@@ -14,7 +15,7 @@ const Post = ({ data }) => {
     post__back_link,
   } = style
   return (
-    <>
+    <Layout>
       <div className={post}>
         <div className={post__body}>
           <nav className={post__nav}>
@@ -29,7 +30,7 @@ const Post = ({ data }) => {
           </main>
         </div>
       </div>
-    </>
+    </Layout>
   )
 }
 

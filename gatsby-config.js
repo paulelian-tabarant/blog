@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Paul-Elian's blog`,
-    siteUrl: `https://paul-elian.dev/`,
+    title: 'Paul-Elian',
+    siteUrl: 'https://paulelian.net/',
   },
   plugins: [
     {
       resolve: 'gatsby-source-filesystem',
       options: {
         name: 'images',
-        path: `./src/images/`,
+        path: './src/images/',
       },
       __key: 'images',
     },
@@ -16,17 +16,18 @@ module.exports = {
       resolve: 'gatsby-source-filesystem',
       options: {
         name: 'posts',
-        path: `./src/posts/`,
+        path: './src/posts/',
       },
       __key: 'posts',
     },
-    `gatsby-plugin-sharp`,
+    'gatsby-plugin-sharp',
+    'gatsby-transformer-sharp',
     {
-      resolve: `gatsby-transformer-remark`,
+      resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [
           {
-            resolve: `gatsby-remark-images`,
+            resolve: 'gatsby-remark-images',
             options: {
               // It's important to specify the maxWidth (in pixels) of
               // the content container as this plugin uses this as the
@@ -34,7 +35,7 @@ module.exports = {
               maxWidth: 590,
             },
           },
-	`gatsby-plugin-catch-links`
+          'gatsby-plugin-catch-links',
         ],
       },
     },

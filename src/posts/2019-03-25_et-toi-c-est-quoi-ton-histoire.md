@@ -2,6 +2,7 @@
 path: '/et-toi-c-est-quoi-ton-histoire'
 date: 2019-03-25
 title: "Et toi, c'est quoi ton histoire ?"
+featuredImage: "../images/et-toi-c-est-quoi-ton-histoire.jpg"
 ---
 
 Eh, ça faisait longtemps l'ami·e, tu ne trouves pas ? Tu remarqueras qu'entre temps, j'ai adopté la typographie de **l'écriture inclusive**, elle qui a fait grincer quelques dents ces derniers mois. Qu'en penses-tu ? J'essaie de voir si, au simple niveau pratique du quotidien, son usage est viable. Je trouve l'idée de véhiculer des mutations d'états d'esprit par l'écriture intéressante, encore faut-il que cela reste **accessible** au plus grand nombre. D'abord, n'est-ce pas un affront supplémentaire aux personnes fâchées avec l'orthographe ou dyslexiques ? Puis, d'un point de vue plus *terre à terre*, où trouver ce foutu **point médian** sur ton clavier ? Avec le codage actuel des caractères sur un clavier français, le point rebelle ne peut s'obtenir que par une combinaison de touches pas franchement confortable, du style *MAJ+5395852633* sur Windows ou MacOS. Et je ne parle pas de Linux, pour peu que tu soies une personne, comme moi, un peu paumée qui préfère le petit pingouin aux systèmes d'exploitation traditionnels sur ton PC.

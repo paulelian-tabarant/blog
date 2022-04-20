@@ -2,6 +2,7 @@
 path: "/petit-guide-de-domptage-de-la-difficulte"
 date: 2021-07-30
 title: "Petit guide de domptage de la difficulté"
+featuredImage: "../images/quai_du_wault.jpg"
 ---
 
 Salut, mon ami⋅e. Ça fait une éternité, non ? Ma plume a comme qui dirait pris quelques vacances, six mois pour parler chiffres. À vrai dire je n'ai pas de raison particulière à te donner, si ce n'est un grand nombre de questionnements qui m'ont hanté pendant le troisième confinement. Confinement qui était clairement de trop dans mon quota de tolérance à l'isolement. Sans vraiment en identifier la cause, beaucoup de mes repères se sont estompés à travers une épaisse nappe de brouillard. Écrire était donc difficilement envisageable.

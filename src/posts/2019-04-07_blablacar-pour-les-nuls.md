@@ -2,6 +2,7 @@
 path: '/blablacar-pour-les-nuls'
 date: 2019-04-07
 title: 'Blablacar pour les nuls'
+featuredImage: "../images/blablacar-pour-les-nuls.jpg"
 ---
 
 > "Mais ne t'en fais pas, je prendrai un Blablacar !"

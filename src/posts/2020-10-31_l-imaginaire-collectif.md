@@ -2,6 +2,7 @@
 path: "/l-imaginaire-collectif"
 date: 2020-10-31
 title: "L'imaginaire collectif"
+featuredImage: "../images/automne-ircica.jpg"
 ---
 
 Salut à toi, mon ami·e. Ça farte ? Oh, la référence de mauvais goût. J'ai toujours eu du mal à partager ma passion pour Brice de Nice, va savoir pourquoi. De toute façon, il fait trop froid pour aller dompter les vagues.

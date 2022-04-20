@@ -6,6 +6,7 @@ import { Home } from '../components/Home'
 import PostsListing from '../components/PostsListing'
 import { Router } from '@reach/router'
 import { graphql } from 'gatsby'
+import { Layout } from '../components/Layout'
 
 const App = ({ data }) => {
   const { allMarkdownRemark } = data
@@ -13,7 +14,7 @@ const App = ({ data }) => {
   const { index__main, index__content } = style
 
   return (
-    <>
+    <Layout>
       {/* <Header /> */}
       <div className={index__main}>
         <div className={index__content}>
@@ -25,7 +26,7 @@ const App = ({ data }) => {
           </Router>
         </div>
       </div>
-    </>
+    </Layout>
   )
 }
 
@@ -39,6 +40,13 @@ export const listingQuery = graphql`
             title
             path
             date(formatString: "DD MMMM YYYY", locale: "fr")
+            featuredImage {
+              childImageSharp {
+                fluid(maxWidth: 800) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
           }
         }
       }

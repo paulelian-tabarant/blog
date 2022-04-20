@@ -1,9 +1,10 @@
 ## Doing
 
+- [ ] Ajouter des featuredImage sur chaque article
+- [ ] Stocker toutes les images ailleurs que sur Silvrback, avec pourquoi pas redimensionnement / compression
 - [ ] Autre police pour les titres, voire police capital-letters
-- [ ] Liens "lire plus" dans le listing des articles, + bouton "retour" ?
-- [ ] Listing des articles plus sophistiqué
-- [ ] Stocker les images ailleurs que sur Silvrback, avec pourquoi pas redimensionnement / compression
+- [ ] Liens "lire plus" dans le listing des articles
+- [ ] Update packages npm
 - [ ] Composant principal : accueil avec portfolio
 - [ ] Gérer la 404 not found
 - [ ] Lier navigation quand retour d'un post pour revenir au niveau de scroll courant
