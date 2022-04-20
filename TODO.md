@@ -1,9 +1,10 @@
 ## Doing
 
-- [ ] Ajouter des featuredImage sur chaque article
+- [x] Ajouter des featuredImage sur chaque article
+- [ ] Compresser les images
 - [ ] Stocker toutes les images ailleurs que sur Silvrback, avec pourquoi pas redimensionnement / compression
 - [ ] Autre police pour les titres, voire police capital-letters
-- [ ] Liens "lire plus" dans le listing des articles
+- [?] Liens "lire plus" dans le listing des articles
 - [ ] Update packages npm
 - [ ] Composant principal : accueil avec portfolio
 - [ ] Gérer la 404 not found
