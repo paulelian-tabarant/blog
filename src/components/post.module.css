@@ -22,15 +22,34 @@
 }
 
 .post__content {
-  margin: 2em 0;
+  margin: 2rem 0;
   line-height: 1.8rem;
 }
 .post__content h1 {
-  line-height: 2.2rem;
+  line-height: 2.8rem;
+  margin-top: 1em;
+  font-size: 48px;
+}
+
+.post__content h2 {
+  font-size: 32px;
+}
+
+.post__content h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 2em;
 }
 
 .post__content img {
   width: 100%;
+}
+
+.post__content a {
+  text-decoration: none;
+  color: #e67f00ad;
 }
 
 .post__content ul {

@@ -10,6 +10,7 @@ const PostsListing = ({ title, path, posts }) => {
   const {
     posts_listing,
     posts_listing__item,
+    posts_listing__item__description,
     posts_listing__item__header,
     posts_listing__item__header__title,
     posts_listing__item__header__date,
@@ -23,16 +24,29 @@ const PostsListing = ({ title, path, posts }) => {
       const featuredImageFluid = featuredImage.childImageSharp?.fluid
 
       return (
-        <article className={posts_listing__item} key={postPath}>
+        <>
           <a href={postPath}>
-            {featuredImageFluid && <Img className={posts_listing__item__cover} fluid={featuredImageFluid} />}
-            <header className={posts_listing__item__header}>
-              <h2 className={posts_listing__item__header__title}>{title}</h2>
-              <div className={posts_listing__item__header__date}>{date}</div>
-            </header>
+            <article className={posts_listing__item} key={postPath}>
+              {featuredImageFluid && (
+                <Img
+                  className={posts_listing__item__cover}
+                  fluid={featuredImageFluid}
+                />
+              )}
+              <div className={posts_listing__item__description}>
+                <header className={posts_listing__item__header}>
+                  <h2 className={posts_listing__item__header__title}>
+                    {title}
+                  </h2>
+                  <div className={posts_listing__item__header__date}>
+                    {date}
+                  </div>
+                </header>
+                <p className={posts_listing__item__excerpt}>{post.excerpt}</p>
+              </div>
+            </article>
           </a>
-          <p className={posts_listing__item__excerpt}>{post.excerpt}</p>
-        </article>
+        </>
       )
     })
 
