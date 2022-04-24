@@ -10,7 +10,6 @@ const PostsListing = ({ title, path, posts }) => {
   const {
     posts_listing,
     posts_listing__item,
-    posts_listing__item__description,
     posts_listing__item__header,
     posts_listing__item__header__title,
     posts_listing__item__header__date,
@@ -33,17 +32,11 @@ const PostsListing = ({ title, path, posts }) => {
                   fluid={featuredImageFluid}
                 />
               )}
-              <div className={posts_listing__item__description}>
-                <header className={posts_listing__item__header}>
-                  <h2 className={posts_listing__item__header__title}>
-                    {title}
-                  </h2>
-                  <div className={posts_listing__item__header__date}>
-                    {date}
-                  </div>
-                </header>
-                <p className={posts_listing__item__excerpt}>{post.excerpt}</p>
-              </div>
+              <header className={posts_listing__item__header}>
+                <h2 className={posts_listing__item__header__title}>{title}</h2>
+                <div className={posts_listing__item__header__date}>{date}</div>
+              </header>
+              <p className={posts_listing__item__excerpt}>{post.excerpt}</p>
             </article>
           </a>
         </>
