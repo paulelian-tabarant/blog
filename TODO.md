@@ -2,6 +2,7 @@
 
 - [x] Ajouter des featuredImage sur chaque article
 - [x] Lier images aux imports locaux (à partir de tête baissée)
+- [ ] Voir si plugin catch-links vraiment utile
 - [ ] Autre police pour les titres, voire police capital-letters
 - [ ] Régler la 404 au démarrage du site sur Netlify
 - [ ] Compresser les images du dernier article

@@ -23,23 +23,21 @@ const PostsListing = ({ title, path, posts }) => {
       const featuredImageFluid = featuredImage.childImageSharp?.fluid
 
       return (
-        <>
-          <a href={postPath}>
-            <article className={posts_listing__item} key={postPath}>
-              {featuredImageFluid && (
-                <Img
-                  className={posts_listing__item__cover}
-                  fluid={featuredImageFluid}
-                />
-              )}
-              <header className={posts_listing__item__header}>
-                <h2 className={posts_listing__item__header__title}>{title}</h2>
-                <div className={posts_listing__item__header__date}>{date}</div>
-              </header>
-              <p className={posts_listing__item__excerpt}>{post.excerpt}</p>
-            </article>
-          </a>
-        </>
+        <a key={postPath} href={postPath}>
+          <article className={posts_listing__item} key={postPath}>
+            {featuredImageFluid && (
+              <Img
+                className={posts_listing__item__cover}
+                fluid={featuredImageFluid}
+              />
+            )}
+            <header className={posts_listing__item__header}>
+              <h2 className={posts_listing__item__header__title}>{title}</h2>
+              <div className={posts_listing__item__header__date}>{date}</div>
+            </header>
+            <p className={posts_listing__item__excerpt}>{post.excerpt}</p>
+          </article>
+        </a>
       )
     })
 
