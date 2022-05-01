@@ -13,6 +13,7 @@ module.exports = {
       __key: 'posts',
     },
     'gatsby-plugin-sharp',
+    `gatsby-plugin-netlify`,
     'gatsby-transformer-sharp',
     {
       resolve: 'gatsby-transformer-remark',

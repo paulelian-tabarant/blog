@@ -1,8 +1,6 @@
 import * as React from 'react'
 import * as style from './index.module.css'
 
-import { Header } from '../components/Header'
-import { Home } from '../components/Home'
 import PostsListing from '../components/PostsListing'
 import { Router } from '@reach/router'
 import { graphql } from 'gatsby'
@@ -15,11 +13,9 @@ const App = ({ data }) => {
 
   return (
     <Layout>
-      {/* <Header /> */}
       <div className={index__main}>
         <div className={index__content}>
-          <Router>
-            {/* <Home path="/" /> */}
+          <Router basepath='/'>
             {/* <PostsListing path="/tech" title="Tech" posts={posts} /> */}
             {/* <PostsListing path="/thoughts" title="Pensées" posts={posts} /> */}
             <PostsListing path="/" title="Pensées" posts={posts} />
