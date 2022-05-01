@@ -43,10 +43,6 @@ h6 {
   margin-top: 2em;
 }
 
-.post__content img {
-  width: 100%;
-}
-
 .post__content a {
   text-decoration: none;
   color: #e67f00ad;
