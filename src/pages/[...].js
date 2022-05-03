@@ -38,9 +38,10 @@ export const listingQuery = graphql`
             date(formatString: "DD MMMM YYYY", locale: "fr")
             featuredImage {
               childImageSharp {
-                fluid(maxWidth: 1200) {
-                  ...GatsbyImageSharpFluid
-                }
+                gatsbyImageData(
+                  layout: FULL_WIDTH
+                  placeholder: BLURRED
+                )
               }
             }
           }

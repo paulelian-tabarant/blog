@@ -1,6 +1,6 @@
 import * as React from 'react'
 import * as style from './posts_listing.module.css'
-import Img from 'gatsby-image'
+import { GatsbyImage } from 'gatsby-plugin-image'
 
 const PostsListing = ({ title, path, posts }) => {
   const filteredPosts = posts.filter(({ node: post }) =>
@@ -20,15 +20,16 @@ const PostsListing = ({ title, path, posts }) => {
   const listPosts = (posts) =>
     posts.map(({ node: post }) => {
       const { path: postPath, title, date, featuredImage } = post.frontmatter
-      const featuredImageFluid = featuredImage.childImageSharp?.fluid
+
+      const gatsbyImageData = featuredImage.childImageSharp.gatsbyImageData
 
       return (
         <a key={postPath} href={postPath}>
           <article className={posts_listing__item} key={postPath}>
-            {featuredImageFluid && (
-              <Img
+            {gatsbyImageData && (
+              <GatsbyImage
                 className={posts_listing__item__cover}
-                fluid={featuredImageFluid}
+                image={gatsbyImageData}
               />
             )}
             <header className={posts_listing__item__header}>
