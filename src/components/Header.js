@@ -1,9 +1,9 @@
 import * as React from 'react'
-import {Link} from '@reach/router'
+import { Link } from '@reach/router'
 import * as style from './header.module.css'
 
 export const Header = () => {
-  const {header__ul, header__li, header__link} = style
+  const { header__ul, header__li, header__link } = style
   return (
     <header>
       <nav>

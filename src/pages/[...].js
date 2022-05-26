@@ -2,9 +2,11 @@ import * as React from 'react'
 import * as style from './index.module.css'
 
 import PostsListing from '../components/PostsListing'
+import Home from '../components/Home'
 import { Router } from '@reach/router'
 import { graphql } from 'gatsby'
 import { Layout } from '../components/Layout'
+import { Header } from '../components/Header'
 
 const App = ({ data }) => {
   const { allMarkdownRemark } = data
@@ -15,10 +17,11 @@ const App = ({ data }) => {
     <Layout>
       <div className={index__main}>
         <div className={index__content}>
+          <Header />
           <Router basepath='/'>
-            {/* <PostsListing path="/tech" title="Tech" posts={posts} /> */}
-            {/* <PostsListing path="/thoughts" title="Pensées" posts={posts} /> */}
-            <PostsListing path="/" title="Pensées" posts={posts} />
+            <PostsListing path="/tech" title="Tech" posts={posts} />
+            <PostsListing path="/thoughts" title="Pensées" posts={posts} />
+            <Home path="/" />
           </Router>
         </div>
       </div>

@@ -1,15 +1,10 @@
 ## Doing
 
-- [?] Compresser les images du dernier article
-- [ ] Afficher les images des posts en mode "cover"
+- [ ] Link posts au composant listing /thoughts
+- [ ] Ajouter service d'envoi de mail lorsque nouveau post
 - [ ] Composant principal : accueil avec portfolio
 - [ ] Gérer la 404 not found
 - [ ] Bouton retour en display fixed sur les posts
-
-## Maintenance
-
-- [ ] Update packages npm
-- [ ] Migrer au nouveau plugin d'images : https://www.gatsbyjs.com/docs/reference/release-notes/image-migration-guide/#import-change
 
 ## Done
 
@@ -22,6 +17,11 @@
 - [x] Téléverser markdown et images depuis Silvrback
 - [x] Ajouter compatiblité mobile sur l'app
 - [x] Tester plugin catch-links
+
+### Maintenance
+
+- [x] Update packages npm
+- [x] Migrer au nouveau plugin d'images : https://www.gatsbyjs.com/docs/reference/release-notes/image-migration-guide/#import-change
 
 ## Fonts ranking
 
