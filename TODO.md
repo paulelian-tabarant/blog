@@ -1,5 +1,6 @@
 ## Doing
 
+- [ ] Migration TypeScript
 - [?] Compresser les images du dernier article
 - [ ] Afficher les images des posts en mode "cover"
 - [ ] Composant principal : accueil avec portfolio

@@ -1,21 +1,20 @@
 import * as React from 'react'
-import * as style from './index.module.css'
-
-import PostsListing from '../components/PostsListing'
-import { Router } from '@reach/router'
+import { Router } from '@gatsbyjs/reach-router'
 import { graphql } from 'gatsby'
-import { Layout } from '../components/Layout'
+import { index__main, index__content } from './index.module.css'
 
-const App = ({ data }) => {
+import { Layout } from '../components/Layout'
+import PostsListing from '../components/PostsListing'
+
+const App = ({ data }: any) => {
   const { allMarkdownRemark } = data
   const { edges: posts } = allMarkdownRemark
-  const { index__main, index__content } = style
 
   return (
     <Layout>
       <div className={index__main}>
         <div className={index__content}>
-          <Router basepath='/'>
+          <Router basepath="/">
             {/* <PostsListing path="/tech" title="Tech" posts={posts} /> */}
             {/* <PostsListing path="/thoughts" title="Pensées" posts={posts} /> */}
             <PostsListing path="/" title="Pensées" posts={posts} />
@@ -27,7 +26,7 @@ const App = ({ data }) => {
 }
 
 export const listingQuery = graphql`
-  query TechPostsListingQuery {
+  query TechPostsListing {
     allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
       edges {
         node {
@@ -38,10 +37,7 @@ export const listingQuery = graphql`
             date(formatString: "DD MMMM YYYY", locale: "fr")
             featuredImage {
               childImageSharp {
-                gatsbyImageData(
-                  layout: FULL_WIDTH
-                  placeholder: BLURRED
-                )
+                gatsbyImageData(layout: FULL_WIDTH, placeholder: BLURRED)
               }
             }
           }
