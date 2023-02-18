@@ -3,9 +3,6 @@ import { posts_listing } from './posts_listing.module.css'
 import { PostsProps, Post } from './posts.type'
 import PostThumbnail from './PostThumbnail'
 
-const listPosts = (posts: Array<Post>) =>
-  posts.map((post) => <PostThumbnail post={post}></PostThumbnail>)
-
 const Posts: React.FC<PostsProps> = (props) => {
   const { title, path, posts } = props
 
@@ -13,14 +10,12 @@ const Posts: React.FC<PostsProps> = (props) => {
     post.frontmatter.path.startsWith(path)
   )
 
-  const postElements = listPosts(filteredPosts)
-
   return (
     <>
       <h1>{title}</h1>
       <main>
-        {postElements.length ? (
-          <ul className={posts_listing}>{postElements}</ul>
+        {filteredPosts.length ? (
+          <ul className={posts_listing}>{listPosts(filteredPosts)}</ul>
         ) : (
           <p>À venir...</p>
         )}
@@ -28,5 +23,8 @@ const Posts: React.FC<PostsProps> = (props) => {
     </>
   )
 }
+
+const listPosts = (posts: Array<Post>) =>
+  posts.map((post) => <PostThumbnail post={post}></PostThumbnail>)
 
 export default Posts
