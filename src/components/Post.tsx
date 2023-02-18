@@ -10,7 +10,7 @@ import {
   post__back_link,
 } from './post.module.css'
 
-import { PostQuery, MarkdownRemark } from './PostQuery'
+import { PostQuery, MarkdownRemark } from './post.type'
 
 const Post = ({ data }: PostQuery) => {
   if (!data) throw Error('No post found on given path')
@@ -34,9 +34,7 @@ const Post = ({ data }: PostQuery) => {
           </aside>
           <main className={post__content}>
             <h1>{markdownRemark.frontmatter.title}</h1>
-            <div
-              dangerouslySetInnerHTML={{ __html: markdownRemark.html || '' }}
-            />
+            <div dangerouslySetInnerHTML={{ __html: markdownRemark.html }} />
           </main>
         </div>
       </div>

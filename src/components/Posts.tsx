@@ -10,7 +10,9 @@ import {
   posts_listing__item__excerpt,
 } from './posts_listing.module.css'
 
-function createPost({ node: post }: any) {
+import { PostsProps, Post } from './posts.type'
+
+function createThumbnail(post: Post) {
   const { path: postPath, title, date, featuredImage } = post.frontmatter
 
   const imageData = featuredImage.childImageSharp.gatsbyImageData
@@ -35,18 +37,12 @@ function createPost({ node: post }: any) {
   )
 }
 
-const listPosts = (posts: any) => posts.map(createPost)
-
-interface PostsProps {
-  title: string
-  path: string
-  posts: any
-}
+const listPosts = (posts: Array<Post>) => posts.map(createThumbnail)
 
 const Posts: React.FC<PostsProps> = (props) => {
   const { title, path, posts } = props
 
-  const filteredPosts = posts.filter(({ node: post }: any) =>
+  const filteredPosts = posts.filter((post) =>
     post.frontmatter.path.startsWith(path)
   )
 
