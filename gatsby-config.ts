@@ -1,8 +1,11 @@
-module.exports = {
+import type { GatsbyConfig } from 'gatsby'
+
+const config: GatsbyConfig = {
   siteMetadata: {
     title: 'Paul-Elian',
     siteUrl: 'https://paulelian.net/',
   },
+  graphqlTypegen: true,
   plugins: [
     {
       resolve: 'gatsby-source-filesystem',
@@ -35,3 +38,5 @@ module.exports = {
     `gatsby-plugin-netlify`,
   ],
 }
+
+export default config

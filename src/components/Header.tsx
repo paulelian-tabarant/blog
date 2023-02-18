@@ -1,9 +1,9 @@
 import * as React from 'react'
-import {Link} from '@reach/router'
-import * as style from './header.module.css'
+import { Link } from '@reach/router'
+import { header__ul, header__li, header__link } from './header.module.css'
+import { PageProps } from 'gatsby'
 
-export const Header = () => {
-  const {header__ul, header__li, header__link} = style
+export const Header: React.FC<PageProps> = () => {
   return (
     <header>
       <nav>

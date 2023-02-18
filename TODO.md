@@ -1,6 +1,10 @@
 ## Doing
 
-- [?] Compresser les images du dernier article
+- [ ] Refactorer vignettes de posts
+- [ ] Typer le retour des queries GraphQL
+- [ ] Migrer au nouveau plugin d'images : https://www.gatsbyjs.com/docs/reference/release-notes/image-migration-guide/#import-change
+- [ ] Résoudre les conflits de dépendances
+- [ ] Tests (mapping GraphQL, ...)
 - [ ] Afficher les images des posts en mode "cover"
 - [ ] Composant principal : accueil avec portfolio
 - [ ] Gérer la 404 not found
@@ -8,8 +12,7 @@
 
 ## Maintenance
 
-- [ ] Update packages npm
-- [ ] Migrer au nouveau plugin d'images : https://www.gatsbyjs.com/docs/reference/release-notes/image-migration-guide/#import-change
+- [x] Update packages npm
 
 ## Done
 
