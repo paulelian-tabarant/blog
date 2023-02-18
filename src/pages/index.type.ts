@@ -1,4 +1,3 @@
-import GatsbyImage from 'gatsby-image'
 import { Post } from '../components/posts.type'
 
 export interface AllMarkdownRemark {

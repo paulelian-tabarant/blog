@@ -10,14 +10,16 @@ import {
   post__back_link,
 } from './post.module.css'
 
-import { PostQuery, MarkdownRemark } from './post.type'
+import { PostQuery } from './post.type'
 
 const Post = ({ data }: PostQuery) => {
   if (!data) throw Error('No post found on given path')
   if (!data.markdownRemark)
     throw Error('Could not retrieve markdown parsed post')
 
-  const markdownRemark: MarkdownRemark = data.markdownRemark
+  const { frontmatter, html: postContent } = data.markdownRemark
+  const { date, title } = frontmatter
+
   const backKey = <span>&larr;</span>
 
   return (
@@ -29,12 +31,10 @@ const Post = ({ data }: PostQuery) => {
               {backKey} Retour
             </a>
           </nav>
-          <aside className={post__date}>
-            {markdownRemark.frontmatter.date}
-          </aside>
+          <aside className={post__date}>{date}</aside>
           <main className={post__content}>
-            <h1>{markdownRemark.frontmatter.title}</h1>
-            <div dangerouslySetInnerHTML={{ __html: markdownRemark.html }} />
+            <h1>{title}</h1>
+            <div dangerouslySetInnerHTML={{ __html: postContent }} />
           </main>
         </div>
       </div>

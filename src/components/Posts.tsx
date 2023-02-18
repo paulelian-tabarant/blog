@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { posts_listing } from './posts_listing.module.css'
+import { posts_listing } from './posts.module.css'
 import { PostsProps, Post } from './posts.type'
 import PostThumbnail from './PostThumbnail'
 
@@ -25,6 +25,6 @@ const Posts: React.FC<PostsProps> = (props) => {
 }
 
 const listPosts = (posts: Array<Post>) =>
-  posts.map((post) => <PostThumbnail post={post}></PostThumbnail>)
+  posts.map((post) => <PostThumbnail post={post} />)
 
 export default Posts
