@@ -1,4 +1,4 @@
-import { graphql, PageProps } from 'gatsby'
+import { graphql } from 'gatsby'
 import React from 'react'
 import { Layout } from './Layout'
 import {
@@ -10,8 +10,14 @@ import {
   post__back_link,
 } from './post.module.css'
 
-const Post = ({ data }: PageProps<Queries.PostQuery>) => {
-  const markdownRemark = data.markdownRemark
+import { PostQuery, MarkdownRemark } from './PostQuery'
+
+const Post = ({ data }: PostQuery) => {
+  if (!data) throw Error('No post found on given path')
+  if (!data.markdownRemark)
+    throw Error('Could not retrieve markdown parsed post')
+
+  const markdownRemark: MarkdownRemark = data.markdownRemark
   const backKey = <span>&larr;</span>
 
   return (
@@ -24,12 +30,12 @@ const Post = ({ data }: PageProps<Queries.PostQuery>) => {
             </a>
           </nav>
           <aside className={post__date}>
-            {markdownRemark?.frontmatter?.date}
+            {markdownRemark.frontmatter.date}
           </aside>
           <main className={post__content}>
-            <h1>{markdownRemark?.frontmatter?.title}</h1>
+            <h1>{markdownRemark.frontmatter.title}</h1>
             <div
-              dangerouslySetInnerHTML={{ __html: markdownRemark?.html || '' }}
+              dangerouslySetInnerHTML={{ __html: markdownRemark.html || '' }}
             />
           </main>
         </div>

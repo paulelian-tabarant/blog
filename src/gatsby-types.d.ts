@@ -3678,10 +3678,10 @@ type PostQueryVariables = Exact<{
 
 type PostQuery = { readonly markdownRemark: { readonly html: string | null, readonly frontmatter: { readonly date: string | null, readonly path: string | null, readonly title: string | null } | null } | null };
 
-type TechPostsListingQueryVariables = Exact<{ [key: string]: never; }>;
+type PostsQueryVariables = Exact<{ [key: string]: never; }>;
 
 
-type TechPostsListingQuery = { readonly allMarkdownRemark: { readonly edges: ReadonlyArray<{ readonly node: { readonly excerpt: string | null, readonly frontmatter: { readonly title: string | null, readonly path: string | null, readonly date: string | null, readonly featuredImage: { readonly childImageSharp: { readonly gatsbyImageData: import('gatsby-plugin-image').IGatsbyImageData } | null } | null } | null } }> } };
+type PostsQuery = { readonly allMarkdownRemark: { readonly edges: ReadonlyArray<{ readonly node: { readonly excerpt: string | null, readonly frontmatter: { readonly title: string | null, readonly path: string | null, readonly date: string | null, readonly featuredImage: { readonly childImageSharp: { readonly gatsbyImageData: import('gatsby-plugin-image').IGatsbyImageData } | null } | null } | null } }> } };
 
 type AllBlogPostsQueryVariables = Exact<{ [key: string]: never; }>;
 
