@@ -1,17 +1,15 @@
-import * as React from 'react'
+import React from 'react'
 import { Link } from '@reach/router'
 import { header__ul, header__li, header__link } from './header.module.css'
 import { PageProps } from 'gatsby'
 
-export const Header: React.FC<PageProps> = () => {
+export const Header: React.FC<PageProps> = (_: PageProps) => {
   return (
     <header>
       <nav>
         <ul className={header__ul}>
           <li className={header__li}>
-            <Link className={header__link} to="/">
-              Accueil
-            </Link>
+            <Link className={header__link} to="/"></Link>
           </li>
           <li className={header__li}>
             <Link className={header__link} to="/tech">

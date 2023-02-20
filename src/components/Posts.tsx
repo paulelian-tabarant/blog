@@ -1,9 +1,9 @@
-import * as React from 'react'
 import { posts_listing } from './posts.module.css'
+import React from 'react'
 import { PostsProps, Post } from './posts.type'
-import PostThumbnail from './PostThumbnail'
+import PostThumbnail, { PostThumbnailProps } from './PostThumbnail'
 
-const Posts: React.FC<PostsProps> = (props) => {
+const Posts: React.FC<PostsProps> = (props: PostsProps) => {
   const { title, path, posts } = props
 
   const filteredPosts = posts.filter((post) =>
@@ -15,7 +15,13 @@ const Posts: React.FC<PostsProps> = (props) => {
       <h1>{title}</h1>
       <main>
         {filteredPosts.length ? (
-          <ul className={posts_listing}>{listPosts(filteredPosts)}</ul>
+          <ul className={posts_listing}>
+            {posts.map((post: Post) => (
+              <li>
+                <PostThumbnail post={post}></PostThumbnail>
+              </li>
+            ))}
+          </ul>
         ) : (
           <p>À venir...</p>
         )}
@@ -23,8 +29,5 @@ const Posts: React.FC<PostsProps> = (props) => {
     </>
   )
 }
-
-const listPosts = (posts: Array<Post>) =>
-  posts.map((post) => <PostThumbnail post={post} />)
 
 export default Posts

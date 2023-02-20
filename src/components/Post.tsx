@@ -13,9 +13,7 @@ import {
 import { PostQuery } from './post.type'
 
 const Post = ({ data }: PostQuery) => {
-  if (!data) throw Error('No post found on given path')
-  if (!data.markdownRemark)
-    throw Error('Could not retrieve markdown parsed post')
+  if (!data?.markdownRemark) throw Error('No post found on given path')
 
   const { frontmatter, html: postContent } = data.markdownRemark
   const { date, title } = frontmatter

@@ -1,32 +1,35 @@
-import * as React from 'react'
+import React from 'react'
 import { Router } from '@gatsbyjs/reach-router'
 import { graphql, PageProps } from 'gatsby'
 import { index__main, index__content } from './index.module.css'
 
 import { Layout } from '../components/Layout'
 import Posts from '../components/Posts'
-import { AllMarkdownRemark } from './index.type'
 import { Post } from '../components/posts.type'
 
-const App: React.FC<PageProps<Queries.PostsQuery>> = ({ data }: any) => {
-  const allMarkdownRemark: AllMarkdownRemark = data.allMarkdownRemark
-  const { edges } = allMarkdownRemark
-  const posts: Array<Post> = edges.map((edge) => edge.node)
-  console.log('Posts: ', posts)
-
+const App: React.FC<PageProps<Queries.PostsQuery>> = (
+  props: PageProps<Queries.PostsQuery>
+) => {
   return (
     <Layout>
       <div className={index__main}>
         <div className={index__content}>
           <Router basepath="/">
             {/* <Posts path="/tech" title="Tech" posts={posts} /> */}
-            <Posts path="/" title="Pensées" posts={posts} />
+            <Posts
+              path="/"
+              title="Pensées"
+              posts={toPosts(props.data.allMarkdownRemark.edges)}
+            />
           </Router>
         </div>
       </div>
     </Layout>
   )
 }
+
+const toPosts = (edges: any): Array<Post> =>
+  edges.map((edge: any): Post => edge.node)
 
 export const postsQuery = graphql`
   query Posts {
