@@ -17,12 +17,13 @@ interface PostThumbnailProps {
 const PostThumbnail: React.FC<PostThumbnailProps> = ({ post }) => {
   const { path: postPath, title, date, featuredImage } = post.frontmatter
 
-  const imageData = featuredImage.childImageSharp.gatsbyImageData
+  const hasImage = featuredImage != null
+  const imageData = featuredImage?.childImageSharp.gatsbyImageData
 
   return (
     <a key={postPath} href={postPath}>
       <article className={posts_listing__item} key={postPath}>
-        {imageData && (
+        {hasImage && (
           <GatsbyImage
             alt=""
             className={posts_listing__item__cover}

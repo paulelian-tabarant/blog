@@ -52,9 +52,12 @@ export const createPages: GatsbyNode['createPages'] = async ({
 
   edges.forEach(({ node }: any) => {
     const path = node.frontmatter?.path
+    if (!node.frontmatter) {
+      throw new Error('Could not retrieve frontmatter from post')
+    }
 
     if (!path) {
-      throw new Error('Blog post has no path')
+      throw new Error('Post has no path')
     }
 
     createPage({
