@@ -85,7 +85,7 @@ En constatant les séquelles que cette attitude a et a eu sur mon corps et ma t�
 Maintenant, que fait-on ? Comment continue-t-on à avancer vers ses rêves, son étincelle, tout faisant preuve de respect
 envers soi et ne pas faire du surplace ?
 
-J'essaie de me faire confiance. La principale vertu que j'ai trouvée dans le ménagement, effort est la clarté d'esprit
+J'essaie de me faire confiance. La principale vertu que j'ai trouvée dans le ménagement est la clarté d'esprit
 vis-à-vis de mes aspirations, mes valeurs. Quand je garde un peu d'espace pour ressentir, laisser libre court aux
 pensées non sollicitées, je me rapproche de ma vérité intérieure. Je confronte le monde extérieur à mes valeurs
 intrinsèques. Paradoxalement, c'est dans les périodes de l'année où je me suis le plus activé que je me suis senti le
