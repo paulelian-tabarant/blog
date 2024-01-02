@@ -16,4 +16,4 @@ npm start
 
 will run `gatsby develop`.
 
-Your server will then be available at `localhost:8080`.
+Your local version will then be available at `localhost:8000`.

@@ -14,7 +14,7 @@ dire que je ne devrais pas avoir de faille, de défaut, ils existent. Quand je p
 départ dans ma vie, je suis retenu par tout un tas de choses qui touchent à des blessures mais aussi à mon coeur. À ce
 que je suis au fond de moi. Et heureusement, c'est mon humanité qui s'exprime.
 
-![Monasterio de Zarassuza](norte.jpg)
+![](norte.jpg)
 
 Je pense parfois à partir de Lille. À changer de métier. Et en même temps, j'accepte que des choses m'y retiennent.
 Une rencontre à laquelle je m'attache alors que l'on ne s'est absolument rien promis l'un l'autre. Des amis. Une
@@ -119,7 +119,7 @@ l'entreprise. Aveuglé par le regard des autres, j'ai mis de coté ce "plaisir" 
 
 ![](berlin2.jpg)
 
-À l'avenir, je me fais la promesse de garder en vue cette petite flamme. Je suis en paix avec le fait que garder cette
+À l'avenir, je me fais la promesse de garder en vue cette flamme. Je suis en paix avec le fait que garder cette
 flamme peut impliquer une moins bonne évaluation, ou de répondre moins exactement aux attentes d'une entreprise. Je
 garde précieusement ce qui m'a amené à aller vers ce métier. Le perdre c'est, d'une, perdre l'envie de
 se lever le matin. Ce qui est encore plus dommageable pour l'entreprise économiquement.
@@ -137,25 +137,28 @@ mienne jusqu'à présent. Quitte à expérimenter pour ensuite revenir dans le m
 ![](norte2.jpg)
 
 Je dirais même que je suis en paix avec le fait de faire un break. De ne plus cadencer les journées par l'horloge de l'
-emploi de bureau, au moins pendant quelques temps. Prendre le temps de prendre le temps. Faire autre choses. Voyager.
-C'est ce qui crie le plus fort, en moi, en ce début d'année. Ça s'impose presque, au point de ne presque plus envisager
-de marche arrière.
+emploi de bureau, au moins pendant quelques temps. Prendre le temps de prendre le temps. Faire autre chose. Voyager.
+C'est ce qui crie le plus fort, en moi, en ce début d'année. Un nouveau départ.
 
 Je ressens ce besoin de purge de l'esprit, de réduire les routines pour retrouver ce qui, au fond du fond, importe
 vraiment. J'ai des intuitions, par exemple le fait que ma situation professionnelle est de moins en moins alignée avec
 ce qui, en moi, m'anime et ce que je peux apporter à ce monde. Qu'elle a pour l'instant été dictée par l'aspect "ce en
-quoi je suis doué" de l'Ikigaï et pas suffisamment par le reste.
+quoi je suis doué" de l'[Ikigaï](https://lesnouveauxtravailleurs.fr/comment-trouver-son-ikigai-ma-methode-en-4-etapes/)
+et pas suffisamment par le reste.
 
 ![](norte6.jpg)
 
-Donc je pense à couper. Sans forcément de projet particulier à la clé. Juste faire un break de la "machine à laver"
-travail. Me permettre de taper dans les économies quelques temps, mais d'investir dans autre chose de bien plus
-important qu'une épargne. Quelque chose que je garderai, pour le coup, pour le reste de mon existence. Ça m'a fait peur,
+Donc je pense à couper. Sans forcément de projet particulier à la clé. Juste faire un break de la *machine à laver*
+travail. Me permettre de taper dans les économies quelques temps, mais investir dans quelque chose de bien plus
+important qu'une épargne. Quelque chose que je garderai, pour le coup, pour le reste de mon existence. Comme l'a dit un
+hôte d'*Albergue* sur le [Camino del Norte](https://camino-santiago-de-compostela.com/fr/camino-del-norte/) cet été, *La
+escuela de la vida*. Ça m'a fait peur,
 cette idée que ma place n'était pas forcément ici. En fait, elle n'est nulle part indéfiniment pour personne. Tout est
 périssable.
 
-Bon, j'ai toujours peur, on ne va pas se mentir. Peur de franchir le pas et de tous les bouleversements que ça puisse
-engendrer. Peur de voir s'en aller ce pour quoi j'ai étudié d'arrache-pied pendant cinq ans. Parce que je me suis
+Bon, j'ai toujours peur, on ne va pas se mentir. Peur de franchir le pas et de tous les bouleversements potentiels.
+Peur de voir s'en aller ce pour quoi j'ai étudié d'arrache-pied pendant cinq ans, un job d'ingénieur logiciel. Une
+situation financière confortable. Parce que je me suis
 construit là-dessus. Et, a fortiori, j'existe en grande partie à travers cette dimension de moi-même. Mais je crois que
 je suis de en paix avec le fait de la réduire, peut-être un jour de la supprimer s'il le faut.
 
@@ -163,19 +166,24 @@ je suis de en paix avec le fait de la réduire, peut-être un jour de la supprim
 
 ## Laisser partir le scientifique forcené
 
-Je me rends de plus en plus compte de l'importance du reste. Je ne jette pas tout à la poubelle. De temps en temps,
+Je me rends de plus en plus compte de l'importance
+du [cerveau droit](https://www.futura-sciences.com/sante/questions-reponses/cerveau-cerveau-droit-cerveau-gauche-differences-10506/).
+Je ne jette pas tout à la poubelle. De temps en temps,
 j'apprécie la satisfaction qu'apporte le fait de se dédier corps et âme à résoudre un problème complexe. La mentalité
-guerrière à ne rien lâcher. J'ai confiance en le fait de pouvoir remobiliser ces facultés quand ce sera nécessaire.
+guerrière à ne rien lâcher m'a aussi rendu service. J'ai confiance en le fait de pouvoir remobiliser ces facultés quand
+ce sera nécessaire.
 
 Depuis quelques années et encore plus celle-ci, je ressens un autre élan. Un élan d'expériences dans lesquelles j'ai
-fait rayonner d'autres choses. Les valeurs que j'incarne et auxquelles je crois profondément, en tout cas en ce moment.
-Et le constat des belles expériences qui en ont découlé, en essayant tant bien que mal de les suivre. Comme une vague
+fait rayonner d'autres aspects de mon humanité. Le constat des belles expériences qui en ont découlé m'aident à y faire
+confiance. Comme une vague
 idée, quelque chose qui prend aux tripes en nous
 disant ["ça, c'est juste"](https://podcast.chloebloom.com/episodes/suivre-son-etincelle-malgre-tout-comment-rester-a-l-ecoute-de-son-coeur).
-Ne pas trop y avoir confiance au début, puis suivre ces intuitions. Et en récolter les fruits. Par exemple, cet été à
-nouveau sur les chemins de Compostelle. Suivre ce "ça, c'est juste".
+Suivre ces intuitions et en récolter les fruits. Par exemple, cet été à nouveau sur les chemins de Compostelle. Suivre
+ce "ça, c'est juste".
 
 ![](mercantour2.jpg)
+
+**TODO: continue from here**
 
 Cette année, j'ai appris à exister plus sereinement avec les personnes qui me sont chères. Juste être là, et avoir
 confiance en le fait que je leur apporte, à ma manière. Ne pas me plier en 4. Juste être là. Être avec eux, me
@@ -220,7 +228,7 @@ d'avoir vécu des événements marquants avec ces personnes nous liait d'une glu
 physique. La glue des souvenirs.
 
 C'est bien ça, qui compte. Créer des souvenirs. Bons et mauvais. Ça, je l'avais déjà depuis quelques années, et je le
-garde toujours précieusement. Quels qu'ils soient, les moments partagés sont la matière première de ce qui me permet
+garde toujours précieusement. Quels qu'ils soient, les moments partagés sont la matière première qui me permet
 aujourd'hui d'écrire ces lignes. En ermite, sans interaction, sans sollicitation, sans partage d'émotions, de projets,
 de moments, je suis muet. C'est précisément ce contact avec les autres êtres humains et la nature qui, plus
 qu'agrémenter, est central dans mon existence. C'est de là que je puise toute mon inspiration. Mon énergie vitale. Comme
@@ -238,6 +246,6 @@ sur le fait que tout passe. Plus que ça, que de belles choses arrivent toujours
 appelle parfois voix intérieure, d'autres fois étincelle, d'autre fois même flamme. Ce qui nous anime au-delà du mental,
 du matériel. Une sorte de matière abstraite au fond de nous qui nous fait dire, au final
 
-> "c'est juste".
+> C'est juste
 
 ![](norte5.jpg)
