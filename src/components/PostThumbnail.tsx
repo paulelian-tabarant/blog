@@ -16,9 +16,11 @@ export interface PostThumbnailProps {
 }
 
 const PostThumbnail: React.FC<PostThumbnailProps> = ({
-  post,
-}: PostThumbnailProps) => {
+                                                       post,
+                                                     }: PostThumbnailProps) => {
   const { path, title, date, featuredImage } = post.frontmatter
+
+  if (!featuredImage.childImageSharp) throw new Error('post at path ' + path + ' has no image (specified was ' + post.frontmatter.featuredImage + ')')
 
   const imageData = featuredImage.childImageSharp.gatsbyImageData
 
