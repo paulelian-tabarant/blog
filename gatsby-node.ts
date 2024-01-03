@@ -60,7 +60,7 @@ export const createPages: GatsbyNode['createPages'] = async ({
     createPage({
       path,
       component: blogPostTemplate,
-      context: {}, // additional data can be passed via context
+      context: {},
     })
   })
 }

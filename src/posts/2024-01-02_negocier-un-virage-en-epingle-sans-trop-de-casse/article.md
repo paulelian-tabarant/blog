@@ -7,35 +7,34 @@ featuredImage: 'cover.jpg'
 
 ## Checkpoint
 
-Nous y sommes. Avec une bonne crève, mais heureux, je crois. Heureux de me sentir de plus en plus libre. Oui, je
-ne me sens pas lié à cette condition-là, actuelle, matérielle, physique. Plus libre aussi parce que conscient de mes
-contraintes et mes failles. On est tous humains et comme tout humain, j'ai mes blessures. J'ai beau me
-dire que je ne devrais pas avoir de faille, de défaut, ils existent. Quand je pense à un nouveau
-départ dans ma vie, je suis retenu par tout un tas de choses qui touchent à des blessures mais aussi à mon cœur. À ce
-que je suis au fond de moi. Et heureusement, c'est mon humanité qui s'exprime.
+Nous y sommes. Avec une bonne crève mais heureux, je crois. Heureux de me sentir de plus en plus libre. Oui, je
+ne me sens pas lié à cette condition-ci. Actuelle, matérielle, physique. Plus libre aussi parce que conscient de mes
+limites et mes failles. On est tous humains et comme tout humain, j'ai mes blessures. J'ai beau me
+dire que je ne devrais pas avoir de névroses, elles existent. Je pense à un nouveau
+départ dans ma vie et en même temps, je suis retenu par tout un tas de choses qui touchent à des blessures. Mais aussi à
+mon cœur. À ce que je suis au fond de moi. Et heureusement. C'est mon humanité qui s'exprime.
 
 ![](norte.jpg)
 
-Je pense parfois à partir de Lille. À changer de métier. Et en même temps, j'accepte que des choses m'y retiennent.
-Une rencontre à laquelle je m'attache alors que l'on ne s'est absolument rien promis l'un l'autre. Des amis. Une
+Je pense à partir de Lille. À changer de métier. En même temps, j'accepte d'être attaché à ce cadre.
+Une rencontre à laquelle je tiens alors que l'on ne s'est absolument rien promis l'un l'autre. Des amis. Une
 situation financière sécurisante. Un appartement cosy. La vie citadine piétonne avec tout à proximité. Un quartier
-agréable. Je prends le temps d'apprécier ce cadre, jusqu'à ce que le choc frontal soit trop évident pour poursuivre dans
+agréable. Je prends le temps d'apprécier, jusqu'à ce que le choc frontal soit trop évident pour poursuivre dans
 cette direction.
 
-Je ne m'en veux pas de me laisser du temps. L'expérience de ma propre vulnérabilité fait partie
-du chemin. J'accepte d'être un peu moins dans l'action. De m'accorder, des fois, des shots de dopamine. Peut-être un peu
-trop, c'est vrai. J'ai besoin de réaliser dans ma chair que l'aventure débridée aboutit à un malêtre profond. De sentir
-un retour à l'équilibre, fondé sur des bases plus saines bien que précaires. Ma quête de l'affection à
-court terme en fait partie, mais je l'accepte. C'est comme ça pour l'instant. Je chemine à mon rythme.
+Je ne m'en veux pas de me laisser ce temps. J'accepte d'être un peu moins dans l'action. De m'accorder, des fois, des
+shots de dopamine. Peut-être un peu trop, c'est vrai. J'ai besoin de réaliser dans ma chair que le plaisir débridé
+mène à un malêtre profond. De sentir un retour à l'équilibre, fondé sur des bases plus saines bien que toujours
+précaires. Glaner de l'affection à court terme en fait partie, mais je l'accepte. C'est comme ça pour l'instant. Je
+chemine à mon rythme.
 
 ![](jazzy-bazz.jpg)
 
-Ce qui fait que je garde le cap, c'est ce feu est toujours quelque part près du cœur. Même si aucune action ne
+Ce qui fait que je garde le cap, c'est ce feu toujours quelque part près du cœur. Même si aucune action ne
 paraît aller de manière retentissante dans la direction de mes rêves, je m'y attelle en silence. Je réalise des choses
-qui mèneront
-probablement à des actions plus concrètes au cours de cette année, ou la suivante. Ou encore la suivante. Mes valeurs se
-consolident. J'ai de plus en plus conscience de mes forces. Et en même temps, je sais que je pourrai tirer profit de mes
-failles pour créer du beau et de la singularité. Peut-être remettre en question le fait que ce sont des faiblesses.
+qui mèneront probablement à des actions plus concrètes au cours de cette année, ou la suivante. Ou encore la suivante.
+Mes valeurs se consolident. J'ai de plus en plus conscience de mes forces. J'apprends aussi à exploiter mes failles pour
+créer du beau et de la singularité. Parfois même remettre en question le fait que ce sont des failles.
 
 > Vous réalisez aussi que toutes les choses vraiment importantes - la beauté, l'amour, la créativité, la joie, la paix -
 > trouvent leur source au-delà du mental. Et vous commencerez alors à vous éveiller.
@@ -44,6 +43,8 @@ failles pour créer du beau et de la singularité. Peut-être remettre en questi
 Tolle, [Le pouvoir du moment présent](https://www.babelio.com/livres/Tolle-Le-Pouvoir-du-moment-present--Guide-deveil-spiri/40054)*
 
 ![](mercantour.jpg)
+
+// TODO: read again from here
 
 ## Le mental infernal
 
