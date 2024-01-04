@@ -56,8 +56,9 @@ h6 {
   font-weight: 700;
 }
 
-.post__content blockquote {
+.post__content blockquote p {
   color: rgba(0, 0, 0, 0.5);
+  font-size: large;
 }
 
 .post__content blockquote p::before {
