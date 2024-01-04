@@ -1,11 +1,9 @@
 ---
 path: '/negocier-un-virage-en-epingle-sans-trop-de-casse'
-date: 2024-01-02
+date: 2024-01-04
 title: "Négocier un virage en épingle sans trop de casse"
 featuredImage: 'cover.jpg'
 ---
-
-## Checkpoint
 
 Nous y sommes. Avec une bonne crève mais heureux, je crois. Heureux de me sentir de plus en plus libre. Oui, je ne me sens pas lié à cette condition-ci. Actuelle, matérielle, physique. Plus libre aussi parce que conscient de mes limites et mes failles. On est tous humains et comme tout humain, j'ai mes blessures. J'ai beau me dire que je ne devrais pas avoir de névroses, elles existent. Je pense à un nouveau départ dans ma vie et en même temps, je suis retenu par tout un tas de choses qui touchent à des blessures. Mais aussi à mon cœur. À ce que je suis au fond de moi. Et heureusement. C'est mon humanité qui s'exprime.
 
@@ -19,10 +17,7 @@ Je ne m'en veux pas de me laisser ce temps. J'accepte d'être un peu moins dans 
 
 Ce qui fait que je garde le cap, c'est ce feu toujours quelque part près du cœur. Même si aucune action ne paraît aller de manière retentissante dans la direction de mes rêves, je m'y attelle en silence. Je réalise des choses qui mèneront probablement à des actions plus concrètes au cours de cette année, ou la suivante. Ou encore la suivante. Mes valeurs se consolident. J'ai de plus en plus conscience de mes forces. J'apprends aussi à exploiter mes failles pour créer du beau et de la singularité. Parfois même remettre en question le fait que ce sont des failles.
 
-> Vous réalisez aussi que toutes les choses vraiment importantes, la beauté, l'amour, la créativité, la joie, la paix, trouvent leur source au-delà du mental. Et vous commencerez alors à vous éveiller.
-
-*Eckhart
-Tolle, [Le pouvoir du moment présent](https://www.babelio.com/livres/Tolle-Le-Pouvoir-du-moment-present--Guide-deveil-spiri/40054)*
+> Vous réalisez aussi que toutes les choses vraiment importantes, la beauté, l'amour, la créativité, la joie, la paix, trouvent leur source au-delà du mental. Et vous commencerez alors à vous éveiller. \[1\]
 
 ![](mercantour.jpg)
 
@@ -37,12 +32,10 @@ limites, avoir une certaine discipline, je reste convaincu que c'est bénéfique
 
 Voir tout renoncement, tout repos comme une baisse de ma valeur intrinsèque est ce qui rend ce *coach interne* si impitoyable. J'ai encore de la difficulté à percevoir cette attitude comme autre chose que de la paresse. Un sentiment de passer à côté de ma vie, de ne pas l'avoir vécue pleinement, ne pas avoir tout tenté. En guise de réponse, 2023 m'a montré que toujours être dans la posture inverse, se dépasser perpétuellement sans relâche, mène à vivre moins pleinement sa vie. Comme étourdi, assommé, hébété. Et aussi bien épuisé. J'essaie d'entretenir cette pensée que la surenchère, le *toujours plus d'efforts* est un manque de respect envers soi.
 
-> Notre obsession de la perfection nous amène à exercer à l'égard de nous-mêmes un harcèlement moral qui tomberait sur le coup de la loi si nous l'appliquions à l'encontre d'un tiers !
-
-*Fabrice
-Midal, ["Foutez-vous la paix !"](https://www.babelio.com/livres/Midal-Foutez-vous-la-paix-et-commencez-a-vivre/1262125)*
+> Notre obsession de la perfection nous amène à exercer à l'égard de nous-mêmes un harcèlement moral qui tomberait sur le coup de la loi si nous l'appliquions à l'encontre d'un tiers ! \[2\]
 
 Ça peut paraître sévère. Parler de torture, de non-respect, de violence, ce n'est pas anodin. Mais je le pense vraiment. En constatant les séquelles que cette attitude a et a eu sur mon corps et ma tête, je me suis rendu à l'évidence.
+
 
 ![](carnaval-bergues.jpg)
 
@@ -52,10 +45,7 @@ Maintenant, que fait-on ? Comment continue-t-on à avancer vers ses rêves, son 
 
 J'essaie de me faire confiance. La principale vertu que j'ai trouvée dans le ménagement est la clarté d'esprit vis-à-vis de mes aspirations, mes valeurs. Quand je garde un peu d'espace pour ressentir, laisser libre court aux pensées non sollicitées, je me rapproche de ma vérité intérieure. Je confronte le monde extérieur à mes valeurs intrinsèques. Paradoxalement, c'est dans les périodes de l'année où je me suis le plus activé que je me suis senti le plus perdu.
 
-> Être actif, ce n'est pas s'agiter. Ce n'est pas courir vainement dans tous les sens pour donner (et se donner) l'impression d'être dans le faire, mais c'est construire en profondeur, sur le roc et non sur le sable. C'est comprendre, c'est trouver une solution nouvelle à une situation qui semble sans issue. Je suis souvent passif quand je m'agite. Je suis réellement actif quand j'ose tout arrêter, attendre, faire confiance. Le médecin doit prendre le risque de rester un instant sans savoir ce qui se passe. Nous aussi. C'est à cette condition que, peut-être, quelque chose de complètement autre, auquel je n'avais pas pensé, va m'apparaître comme une évidence et me sortir de l'impasse dans laquelle je me suis enlisé.
-
-*Fabrice
-Midal, ["Foutez-vous la paix !"](https://www.babelio.com/livres/Midal-Foutez-vous-la-paix-et-commencez-a-vivre/1262125)*
+> Être actif, ce n'est pas s'agiter. Ce n'est pas courir vainement dans tous les sens pour donner (et se donner) l'impression d'être dans le faire, mais c'est construire en profondeur, sur le roc et non sur le sable. C'est comprendre, c'est trouver une solution nouvelle à une situation qui semble sans issue. Je suis souvent passif quand je m'agite. Je suis réellement actif quand j'ose tout arrêter, attendre, faire confiance. Le médecin doit prendre le risque de rester un instant sans savoir ce qui se passe. Nous aussi. C'est à cette condition que, peut-être, quelque chose de complètement autre, auquel je n'avais pas pensé, va m'apparaître comme une évidence et me sortir de l'impasse dans laquelle je me suis enlisé. \[2\]
 
 ![](ostende.jpg)
 
@@ -89,15 +79,15 @@ Je pense à couper, sans forcément de projet particulier à la clé. Juste fair
 
 J'ai été marqué par une phrase de conclusion d'un hôte d'*Albergue* sur le *Camino del Norte* cet été. Parti explorer plusieurs pays pendant des années avec son 4x4, il nous a présenté, à nous pèlerins, son aventure en terminant par
 
-> Hay cosas que no se ensenan en las mejores universidades del mundo. Caminando, fui un alumno de la escuela de la vida.
+> Hay cosas que no se enseñan en las mejores universidades del mundo. Caminando, fui un alumno en la escuela de la vida.
 
-Ça m'a fait peur, cette idée que ma place n'était pas forcément ici. D'abandonner beaucoup de choses. Mais en fait, elle n'est nulle part indéfiniment pour personne. Tout est périssable.
+Ça m'a fait peur, cette idée que ma place n'était pas forcément ici. D'abandonner beaucoup de choses. Mais en fait, elle n'est nulle part indéfiniment pour personne, cette place. Tout est périssable.
 
 Bon, j'ai toujours peur, on ne va pas se mentir.
 
 Peur de franchir le pas et d'affronter tous les bouleversements potentiels. Peur de me sentir très seul.
 
-Peur de voir s'en aller ce pour quoi j'ai étudié d'arrache-pied pendant cinq ans, un job d'ingénieur logiciel. Parce que je me suis construit là-dessus. Et, a fortiori, j'existe en grande partie à travers cette dimension de moi-même. Mais je crois que je suis de en paix avec le fait de la réduire, peut-être un jour de la supprimer s'il le faut.
+Peur de voir s'en aller ce pour quoi j'ai étudié d'arrache-pied pendant cinq ans, un job d'ingénieur logiciel. Parce que je me suis construit là-dessus. Et, a fortiori, j'existe en grande partie à travers cette dimension de moi-même. Mais je crois que je suis de en paix avec le fait de l'abandonner quelques temps, peut-être pour toujours s'il le faut.
 
 Peur de vivre sur mes économies. Quitter une situation financière confortable. Peur du regard des autres, qui sécurisent leurs finances.
 
@@ -125,48 +115,29 @@ Me laisser transporter par la musique. Pourquoi pas en faire quelque chose. Écr
 
 ## Célébrer, un petit peu
 
-// TODO
+Cette année a aussi été le théâtre de belles réalisations. Des instants, seul, de plénitude. L'impression d'être au bon endroit. De faire la seule et unique chose intérieurement juste sur le moment. Un sourire qui se dessine naturellement sur mon visage. Un air musical qui me transporte.
 
-Cette année a aussi été le théâtre de belles réalisations. Des instants, seul, de plénitude. L'impression d'être au bon
-endroit, au bon moment. Un sourire qui se dessine naturellement sur mon visage. Un air musical qui me transporte. Cette
-confiance en l'idée de faire la seule et unique chose intérieurement juste dans l'instant. Beaucoup moins
-hésiter. Retrouver des sensations de bien-être perdues depuis la fin de l'adolescence. Les soirées de fête où l'on ne
-pense pas au lendemain. Et pourtant, ne pas avoir l'impression de rater sa vie. Bien au contraire. Ne pas se dire
-qu'un [miracle morning](https://miraclemorning.com/) aurait été plus raisonnable.
+Beaucoup moins hésiter. Retrouver des sensations de bien-être perdues depuis la fin de l'adolescence. Les soirées de fête où l'on ne pense pas au lendemain. Et pourtant, ne pas avoir l'impression de rater ma vie. Bien au contraire. Ne pas me dire qu'un [miracle morning](https://miraclemorning.com/) aurait été plus raisonnable.
 
-Justement, arrêter d'être raisonnable. Taquiner les limites pour mieux m'équilibrer. Manger trop de sucre, trop de
-sel. Trop picoler. Et constater qu'au final mon corps, mon esprit ont appris à revenir à un état pérenne. Accepter que,
-des fois, on a besoin d'un craquage.
+Justement, arrêter d'être raisonnable. Taquiner les limites pour mieux m'équilibrer. Manger trop de sucre, trop de sel. Trop picoler. Et constater qu'au final mon corps, mon esprit reviennent à un état pérenne, un rythme de croisière. Accepter que, des fois, on a besoin d'un craquage.
 
 ![](barcelona.jpg)
 
-Me sentir entouré même seul. Avoir cette vision incroyablement libératrice que, même sans interaction, mes proches sont
-là. Ils sont avec moi. Tout le temps. L'éloignement physique est beaucoup moins pesant qu'avant. C'est comme si le fait
-d'avoir vécu des événements marquants avec ces personnes nous liait d'une glue si forte qu'elle défie les lois de la
-physique. La glue des souvenirs.
+Me sentir entouré même seul. Avoir cette vision incroyablement libératrice que, même sans interaction, mes proches sont là. Ils sont avec moi. Tout le temps. L'éloignement physique est beaucoup moins pesant qu'avant. C'est comme si le fait d'avoir vécu des événements marquants avec ces personnes nous liait d'une glue si forte qu'elle défie les lois de la physique. La glue des souvenirs.
 
-C'est bien ça, qui compte. Créer des souvenirs. Bons et mauvais. Ça, je l'ai en moi depuis quelques années maintenant.
-Je le garde précieusement. Quels qu'ils soient, les moments partagés sont la matière première qui me permet
-aujourd'hui d'écrire ces lignes. En ermite, sans interaction, sans sollicitation, sans partage d'émotions, de projets,
-de moments, je suis muet. C'est ce contact avec les autres êtres humains et la nature qui, plus qu'agrémenter, est
-le carburant de mon existence. C'est de là que je puise toute ma vitalité. Comme si tout prenait sens lorsque mes
-pensées rencontrent le monde.
+C'est bien ce qui compte, au final. Créer des souvenirs. Bons et mauvais. Ce mantra, je l'ai en moi depuis quelques années maintenant. Je le garde précieusement. Quels qu'ils soient, les moments partagés sont la matière première qui me permet aujourd'hui d'écrire ces lignes. En ermite, sans interaction, sans sollicitation, sans partage d'émotions, de projets, de moments, je suis muet. C'est ce contact avec l'autre et la nature qui, plus qu'agrémenter, est le carburant de mon existence. C'est de là que je puise toute ma vitalité. Comme si tout prenait sens lorsque mes sens rencontrent le monde.
 
 ![](norte3.jpg)
 
-Je prends plaisir à alterner entre des périodes d'extraversion et d'autres, comme aujourd'hui, de repli. Exilé, à la
-manière
-d'un alchimiste, je tente tant bien que mal de transformer ces moments de partage, verbalisés ou non, en quelque chose
-de beau.
+Je prends plaisir à alterner entre des périodes d'ouverture et d'autres, comme aujourd'hui, de repli. Exilé, à la manière d'un alchimiste, je tente tant bien que mal de transformer ces moments de partage, verbalisés ou non, en quelque chose de beau.
 
-Tu vas peut-être me dire que j'entame 2024 de manière abstraite. Et je te donnerai raison. Mais c'est comme ça que j'
-avance,
-aujourd'hui. Beaucoup plus délesté que quelques années en arrière. Et malgré les moments difficiles, je suis
-plein d'espoir. Un espoir simple basé sur le fait que tout passe. Plus que ça, que de belles choses arrivent toujours
-aux personnes qui écoutent ce que l'on appelle parfois voix intérieure, d'autres fois étincelle, d'autre fois même
-flamme. Ce qui nous anime au-delà du mental, du matériel. Une sorte de matière insaisissable au fond de nous qui nous
-fait dire, au final
+Tu vas peut-être me dire que j'entame 2024 de manière abstraite. Et je te donnerai raison. Mais c'est comme ça que j'avance, aujourd'hui. Beaucoup plus délesté que quelques années en arrière. Et malgré les moments difficiles, je suis plein d'espoir. Un espoir simple basé, entre autres, sur le fait que tout passe. Sur le fait que de belles choses arrivent toujours aux personnes qui écoutent ce que l'on appelle parfois voix intérieure, d'autres fois étincelle, d'autre fois même flamme. Ce qui nous anime au-delà du mental, du matériel. Une sorte de matière insaisissable qui nous fait dire, au fond du fond
 
 > C'est juste.
 
 ![](norte5.jpg)
+
+## Les p'tites réfs
+
+- \[1\] Eckhart Tolle, [Le pouvoir du moment présent](https://www.babelio.com/livres/Tolle-Le-Pouvoir-du-moment-present--Guide-deveil-spiri/40054)
+- \[2\] Fabrice Midal, ["Foutez-vous la paix !"](https://www.babelio.com/livres/Midal-Foutez-vous-la-paix-et-commencez-a-vivre/1262125)
