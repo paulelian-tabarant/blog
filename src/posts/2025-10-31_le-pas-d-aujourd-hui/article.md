@@ -35,5 +35,4 @@ constructions personnelles pour lesquelles il ne s'agit en rien de nous blâmer.
 Tout bras tendu vers l'expérience, agréable comme désagréable, est un pas de plus vers
 notre trésor. Quel bonheur alors de savoir qu'aujourd'hui, nous en sommes plus proches que nous l'étions hier.
 
-Une pensée que j'essaie de nourrir face au doute et à la surenchère, à la roue du hamster dans laquelle je tombe et me
-dire que le pas d'aujourd'hui est, peut-être, amplement suffisant.
+Une pensée que j'essaie de nourrir, pour sortir de la roue du hamster dans laquelle j'ai tendance à tomber, est de me dire que le pas d'aujourd'hui est amplement suffisant.
