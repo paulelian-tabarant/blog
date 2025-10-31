@@ -1,7 +1,7 @@
 import React from 'react'
 import { Router } from '@gatsbyjs/reach-router'
 import { graphql, PageProps } from 'gatsby'
-import { index__main, index__content } from './index.module.css'
+import { index__content, index__main } from './index.module.css'
 
 import { Layout } from '../components/Layout'
 import Posts from '../components/Posts'
@@ -15,7 +15,6 @@ const App: React.FC<PageProps<Queries.PostsQuery>> = (
       <div className={index__main}>
         <div className={index__content}>
           <Router basepath="/">
-            {/* <Posts path="/tech" title="Tech" posts={posts} /> */}
             <Posts
               path="/"
               title="Pensées"
