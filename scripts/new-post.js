@@ -47,8 +47,8 @@ async function createPost() {
   const pathInput = await question('URL path (default: auto-generated from title): ');
   const urlPath = pathInput.trim() || slugify(title);
 
-  const imageInput = await question('Featured image filename (default: cover.jpg): ');
-  const featuredImage = imageInput.trim() || 'cover.jpg';
+  const imageInput = await question('Featured image filename (default: cover-bathroom.jpg): ');
+  const featuredImage = imageInput.trim() || 'cover-bathroom.jpg';
 
   rl.close();
 

@@ -2,7 +2,7 @@
 path: '/se-brancher-sur-le-podcast-interieur'
 date: 2025-11-30
 title: "Se brancher sur le podcast intérieur"
-featuredImage: 'cover.jpg'
+featuredImage: 'sunflowers-on-the-wall.png'
 ---
 
 Une matinée calme à la maison. Il fait bon revenir dans cet endroit familier. L'anxiété, elle, savait bien que j'étais rentré. Elle est venue frapper à la porte ce matin. Peu importe l'endroit, pas possible de jouer à cache-cache avec elle. Il faut croire que tout n'est pas terminé dans cette quête-ci. Comme si elle venait me dire "j'ai senti l'odeur du café, ce matin. te rappelles-tu que j'adore ça ?"
