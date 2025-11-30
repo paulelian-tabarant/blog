@@ -1,7 +1,7 @@
 ---
-path: '/not-decided-yet'
+path: '/se-brancher-sur-le-podcast-interieur'
 date: 2025-11-30
-title: "Not decided yet"
+title: "Se brancher sur le podcast intérieur"
 featuredImage: 'cover.jpg'
 ---
 
