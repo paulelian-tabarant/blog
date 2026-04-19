@@ -1,7 +1,7 @@
 ---
-path: '/prisonniers-du-progres'
+path: '/menage-de-printemps'
 date: 2026-04-19
-title: "Prisonniers du progrès"
+title: "Ménage de printemps"
 featuredImage: 'pilea.jpg'
 ---
 
@@ -21,6 +21,8 @@ Après un retour vers soi, il est facile de succomber à nouveau à l'agitation 
 
 C'est dans cette ignorance que commencent les ennuis. Quel dommage de s'en attirer autant, dans une époque où tout semble possible (pourvu que l'on soit du bon côté de la frontière). À commencer par prendre le temps d'aller vers soi. De "s'apprendre".
 
+> Il me semble que les choses viennent beaucoup plus aisément à nous si nous leur accordons le temps qu'elles demandent.
+
 Peut-être que l'abondance de distractions transforme cette tâche complexe en parcours du combattant. Peut-être que le fait que nous ayons transformé notre cadre de vie de telle sorte qu'une quête aussi centrale que la quête de soi devienne une tâche si herculéenne en dit beaucoup sur nous. À chercher à toute vitesse des signes extérieurs de développement, de progrès; en s'efforçant de tout rendre plus pratique; en optimisant la moindre parcelle de notre temps, souvent pour laisser plus de place au travail; en brandissant contre tout problème une solution cartésienne, ne serions-nous pas en train de fuir l'essentiel ?
 
 Les maux de notre temps,
@@ -34,11 +36,19 @@ Les maux de notre temps,
 
 ...ne viendraient-ils pas nous taper sur l'épaule pour nous signaler que ce qui a été mis sous le tapis n'est qu'une bombe à retardement ?
 
+> Il semblerait que la nuit doive s'épaissir encore un peu plus pour qu'on puisse apercevoir quelques étoiles.
+
 ![Peinture : bonnes affaires à Wazemmes](wazemmes-bonnes-affaires.jpg)
 
 
 J'aime penser que les difficultés de notre époque donnent d'autant plus de sens à notre plus grande mission : revenir à soi. Pas le "soi" empris d'ego, qui cherche à s'illustrer individuellement pour bâtir un semblant d'estime, mais plutôt celui qui vibre à une fréquence qui lui est propre. Un "soi" dont l'objectif n'est pas dicté par des attentes extérieures, dont il se moque d'ailleurs bien, mais plutôt le "soi" qui s'est en allé avec l'enfance. Le "soi" qui, sans raison, s'extasie devant un avion en papier parti pour un long voyage éphémère. Le "soi" dont l'odeur du gâteau au yaourt lui rappelle de bons souvenirs. Le "soi" qui s'autorise à s'amuser, à chanter, à rire. À vivre, finalement.
 
-Et surtout, le "soi" qui rayonne l'Amour autour de soi. Le "soi" conscient du fait qu'un regard, un sourire peut apporter beaucoup à la journée de son voisin. Le "soi" qui prend le temps d'écouter ce voisin. Le "soi" qui s'enrichit de la différence avec ce voisin, car conscient qu'il n'y a pas de vision de la vie meilleure qu'une autre : seulement des pyramides de vécus, plus ou moins stables, construites par des personnes qui n'avaient ni les mêmes matériaux ni les mêmes techniques. Le "soi" sensible à l'influence de ses comportements sur son propre habitat.
+> Les bébés sont les grands sages. Le vrai savoir est dans leurs yeux.
+
+Et surtout, le "soi" qui rayonne l'Amour autour de soi. Le "soi" conscient du fait qu'un regard, un sourire peut apporter beaucoup à la journée de son voisin. Le "soi" qui prend le temps d'écouter ce voisin. Le "soi" qui s'enrichit de la différence de ce voisin, car conscient qu'il n'y a pas de vision de la vie meilleure qu'une autre : seulement des pyramides de vécus, plus ou moins stables, construites par des personnes qui n'avaient ni les mêmes matériaux ni les mêmes techniques. Le "soi" sensible à l'influence de ses comportements sur son propre habitat.
 
 Il est grand temps d'élaguer. D'enlever les couches. De retirer, petit à petit, tous les artifices qui nous lestent et nous rendent captifs. Nous, qui avons délibérément choisi cette prison, avons aussi les moyens d'en sortir.
+
+> Parce que dire habiter poétiquement le monde ou habiter humainement le monde, au fond, c'est la même chose.
+
+*Christian Bobin, Le plâtrier siffleur*
