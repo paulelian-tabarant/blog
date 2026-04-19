@@ -37,6 +37,4 @@ J'aime penser que c'est notre grande mission : revenir à soi. Pas le "soi" empr
 
 Et surtout, le "soi" qui rayonne l'amour autour de soi. Le "soi" conscient du fait qu'un regard, un sourire peut apporter beaucoup à la journée de son voisin. Le "soi" qui prend aussi le temps de l'écouter, ce voisin. Le "soi" qui s'enrichit de la différence avec ce voisin, car conscient qu'il n'y a pas de vision de la vie meilleure qu'une autre; simplement des pyramides de vécus, certaines plus stables que d'autres, construites par des personnes qui n'avaient ni les mêmes matériaux ni les mêmes techniques. Le "soi" sensible à l'influence que peut avoir et aux dégâts que peuvent provoquer ses comportements sur son propre habitat.
 
-![wazemmes-lampadaire.jpg](wazemmes-lampadaire.jpg)
-
 Il est grand temps d'élaguer. D'enlever les couches. De retirer, petit à petit, tous les artifices qui nous lestent et nous rendent captifs. Nous, qui avons délibérément choisi cette prison, avons aussi les moyens d'en sortir.
