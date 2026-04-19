@@ -21,7 +21,18 @@ Après un retour vers soi, il est facile de succomber à nouveau à l'agitation 
 
 C'est dans cette ignorance que commencent les ennuis. Quel dommage de s'en attirer autant, dans une époque où tout semble possible (pourvu que l'on soit du bon côté de la frontière). À commencer par prendre le temps d'aller vers soi. De "s'apprendre".
 
-Peut-être que l'abondance de distractions transforme cette tâche complexe en parcours du combattant. Peut-être que le fait que nous ayons transformé notre cadre de vie de telle sorte qu'une quête aussi centrale que la quête de soi devienne une tâche si herculéenne en dit beaucoup sur nous. À chercher à toute vitesse des signes extérieurs de développement, de progrès; en optimisant la moindre parcelle de notre temps, souvent pour laisser plus de place au travail; en brandissant contre tout problème une solution cartésienne; ne serions-nous pas en train de fuir l'essentiel ? Les maux de notre temps : anxiété, solitude, individualisme, carences affectives, pillage des ressources, écarts de richesse exacerbés... ne viendraient-ils pas nous taper sur l'épaule pour nous dire que ce qui a été mis sous le tapis n'est qu'une bombe à retardement ?
+Peut-être que l'abondance de distractions transforme cette tâche complexe en parcours du combattant. Peut-être que le fait que nous ayons transformé notre cadre de vie de telle sorte qu'une quête aussi centrale que la quête de soi devienne une tâche si herculéenne en dit beaucoup sur nous. À chercher à toute vitesse des signes extérieurs de développement, de progrès; en s'efforçant de tout rendre plus pratique; en optimisant la moindre parcelle de notre temps, souvent pour laisser plus de place au travail; en brandissant contre tout problème une solution cartésienne, ne serions-nous pas en train de fuir l'essentiel ?
+
+Les maux de notre temps,
+
+- anxiété
+- solitude
+- individualisme
+- carences affectives
+- pillage des ressources
+- écarts de richesse exacerbés
+
+...ne viendraient-ils pas nous taper sur l'épaule pour nous signaler que ce qui a été mis sous le tapis n'est qu'une bombe à retardement ?
 
 ![Peinture : bonnes affaires à Wazemmes](wazemmes-bonnes-affaires.jpg)
 
